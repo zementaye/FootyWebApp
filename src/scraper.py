@@ -57,6 +57,22 @@ def fetch_upcoming_fixtures(leagues=None, timeout=15):
     resp.raise_for_status()
     df = pd.read_csv(io.BytesIO(resp.content), encoding="latin1", on_bad_lines="skip")
 
+    # Defensive: strip whitespace/BOM from headers — football-data.co.uk has
+    # occasionally shipped a leading BOM on the first column name, which turns
+    # "Div" into "\ufeffDiv" and breaks the lookup below with a bare KeyError.
+    df.columns = [str(c).strip().lstrip("\ufeff") for c in df.columns]
+
+    if "Div" not in df.columns:
+        snippet = resp.text[:200].replace("\n", " ")
+        logger.error(
+            f"fixtures.csv did not contain a 'Div' column. Columns found: "
+            f"{list(df.columns)}. Response starts with: {snippet!r}"
+        )
+        raise ValueError(
+            "fixtures.csv format looks different than expected (no 'Div' column) — "
+            "the site may have changed its schema, or returned an error page instead of CSV."
+        )
+
     df = df[df["Div"].isin(leagues)].copy()
 
     fixtures = []

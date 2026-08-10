@@ -123,7 +123,19 @@ def refresh_fixtures():
 def backtest_summary():
     if os.path.exists(BACKTEST_SUMMARY_PATH):
         with open(BACKTEST_SUMMARY_PATH) as f:
-            return json.load(f)
+            summary = json.load(f)
+        if "headline_takeaway" not in summary:
+            roi = summary.get("flat_stake_roi")
+            n = summary.get("n_bets")
+            if roi is not None and n is not None:
+                summary["headline_takeaway"] = (
+                    f"This model lost money in backtesting: {roi:+.1%} ROI across {n} "
+                    f"simulated flat-stake bets ({summary.get('seasons_tested', 'multiple seasons')}). "
+                    f"Not a source of positive-EV picks — treat predictions as a research tool, not betting advice."
+                )
+            else:
+                summary["headline_takeaway"] = "Backtest summary is missing expected fields."
+        return summary
     return {
         "note": "No precomputed backtest summary bundled. Run `python3 main.py backtest` "
                 "in the original project and copy output/backtest_summary.json into webapp/data/."
