@@ -115,7 +115,8 @@ async function loadFixtures() {
       return;
     }
     if (!data.fixtures || data.fixtures.length === 0) {
-      document.getElementById('fixturesTable').innerHTML = `<p style="color:var(--muted)">No upcoming fixtures found in the current scrape.</p>`;
+      const msg = data.empty_reason || "No upcoming fixtures found in the current scrape.";
+      document.getElementById('fixturesTable').innerHTML = `<p style="color:var(--muted)">${msg}</p>`;
       return;
     }
     let rows = data.fixtures.map(f => `
