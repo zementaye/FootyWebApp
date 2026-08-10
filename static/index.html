@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Football Predictions</title>
+<style>
+  :root {
+    --bg: #0b0f19; --card: #131a2a; --border: #232d42; --text: #e6e9f0; --muted: #8b93a7;
+    --green: #34d399; --red: #f87171; --blue: #60a5fa; --amber: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  header { padding: 24px 32px; border-bottom: 1px solid var(--border); }
+  header h1 { margin: 0; font-size: 22px; }
+  header p { margin: 4px 0 0; color: var(--muted); font-size: 14px; }
+  main { max-width: 1100px; margin: 0 auto; padding: 24px 32px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; margin-bottom: 20px; }
+  .card h2 { margin-top: 0; font-size: 16px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  .warning { background: #2a1a1a; border: 1px solid #5a2a2a; color: #f0b0b0; border-radius: 10px; padding: 14px 18px; font-size: 14px; margin-bottom: 20px; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid var(--border); }
+  th { color: var(--muted); font-weight: 500; font-size: 12px; text-transform: uppercase; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 6px; font-size: 12px; font-weight: 600; }
+  .badge-value { background: rgba(52,211,153,0.15); color: var(--green); }
+  .badge-none { background: rgba(139,147,167,0.1); color: var(--muted); }
+  .prob-bar { display: flex; height: 6px; border-radius: 3px; overflow: hidden; margin-top: 4px; width: 140px; }
+  .stat-row { display: flex; gap: 24px; flex-wrap: wrap; }
+  .stat { min-width: 140px; }
+  .stat .value { font-size: 24px; font-weight: 700; }
+  .stat .label { font-size: 12px; color: var(--muted); text-transform: uppercase; }
+  .loss { color: var(--red); } .win { color: var(--green); }
+  input, button { background: #1a2136; border: 1px solid var(--border); color: var(--text); padding: 8px 12px; border-radius: 8px; font-size: 14px; }
+  button { background: var(--blue); color: #06121f; font-weight: 600; cursor: pointer; border: none; }
+  button:hover { opacity: 0.9; }
+  .predict-form { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  #predictResult { margin-top: 16px; }
+  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 30px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>⚽ Football Prediction Dashboard</h1>
+  <p>Elo + Dixon-Coles + XGBoost, backtested against real bookmaker odds</p>
+</header>
+
+<main>
+  <div class="warning" id="honestyBanner">Loading backtest results...</div>
+
+  <div class="card">
+    <h2>Backtest Track Record</h2>
+    <div class="stat-row" id="backtestStats">Loading...</div>
+  </div>
+
+  <div class="card">
+    <h2>Upcoming Fixtures</h2>
+    <div id="fixturesTable">Loading fixtures...</div>
+  </div>
+
+  <div class="card">
+    <h2>Predict a Match</h2>
+    <div class="predict-form">
+      <input id="homeInput" placeholder="Home team (e.g. Arsenal)">
+      <input id="awayInput" placeholder="Away team (e.g. Chelsea)">
+      <input id="oddsHome" placeholder="Odds H" style="width:80px">
+      <input id="oddsDraw" placeholder="Odds D" style="width:80px">
+      <input id="oddsAway" placeholder="Odds A" style="width:80px">
+      <button onclick="runPredict()">Predict</button>
+    </div>
+    <div id="predictResult"></div>
+  </div>
+</main>
+
+<footer>Not financial advice. Past backtest performance does not guarantee future results.</footer>
+
+<script>
+const API = ""; // same-origin; change to your deployed API base URL if hosting frontend separately
+
+function probBar(pH, pD, pA) {
+  return `<div class="prob-bar">
+    <div style="width:${pH*100}%; background:#60a5fa" title="Home ${(pH*100).toFixed(1)}%"></div>
+    <div style="width:${pD*100}%; background:#8b93a7" title="Draw ${(pD*100).toFixed(1)}%"></div>
+    <div style="width:${pA*100}%; background:#f87171" title="Away ${(pA*100).toFixed(1)}%"></div>
+  </div>`;
+}
+
+async function loadBacktest() {
+  const res = await fetch(`${API}/api/backtest`);
+  const data = await res.json();
+  if (data.note && !data.n_bets) {
+    document.getElementById('honestyBanner').innerText = data.note;
+    document.getElementById('backtestStats').innerText = 'No backtest data available.';
+    return;
+  }
+  document.getElementById('honestyBanner').innerHTML =
+    `<strong>Honest disclosure:</strong> ${data.headline_takeaway}`;
+
+  const roiClass = data.flat_stake_roi >= 0 ? 'win' : 'loss';
+  document.getElementById('backtestStats').innerHTML = `
+    <div class="stat"><div class="value">${data.n_bets}</div><div class="label">Bets simulated</div></div>
+    <div class="stat"><div class="value">${(data.hit_rate*100).toFixed(1)}%</div><div class="label">Hit rate</div></div>
+    <div class="stat"><div class="value ${roiClass}">${(data.flat_stake_roi*100).toFixed(1)}%</div><div class="label">Flat-stake ROI</div></div>
+    <div class="stat"><div class="value">${data.seasons_tested}</div><div class="label">Seasons tested</div></div>
+  `;
+}
+
+async function loadFixtures() {
+  try {
+    const res = await fetch(`${API}/api/fixtures`);
+    const data = await res.json();
+    if (data.scrape_error) {
+      document.getElementById('fixturesTable').innerHTML =
+        `<p style="color:var(--muted)">Couldn't fetch fixtures right now (${data.scrape_error}). This is normal on first deploy — try "Refresh" via the API or wait for the next scheduled scrape.</p>`;
+      return;
+    }
+    if (!data.fixtures || data.fixtures.length === 0) {
+      document.getElementById('fixturesTable').innerHTML = `<p style="color:var(--muted)">No upcoming fixtures found in the current scrape.</p>`;
+      return;
+    }
+    let rows = data.fixtures.map(f => `
+      <tr>
+        <td>${f.date || ''}</td>
+        <td>${f.home_team} vs ${f.away_team}</td>
+        <td>${probBar(f.p_home, f.p_draw, f.p_away)}</td>
+        <td>${(f.p_home*100).toFixed(0)}% / ${(f.p_draw*100).toFixed(0)}% / ${(f.p_away*100).toFixed(0)}%</td>
+        <td>${f.odds_home ?? '—'} / ${f.odds_draw ?? '—'} / ${f.odds_away ?? '—'}</td>
+        <td>${f.value_bet_flag ? `<span class="badge badge-value">VALUE: ${f.best_edge_selection} (+${(f.best_edge*100).toFixed(1)}%)</span>` : `<span class="badge badge-none">No edge</span>`}</td>
+      </tr>
+    `).join('');
+    document.getElementById('fixturesTable').innerHTML = `
+      <table>
+        <thead><tr><th>Date</th><th>Match</th><th>Prob (H/D/A)</th><th></th><th>Odds (H/D/A)</th><th>Signal</th></tr></thead>
+        <tbody>${rows}</tbody>
+      </table>`;
+  } catch (e) {
+    document.getElementById('fixturesTable').innerHTML = `<p style="color:var(--muted)">Fixtures unavailable: ${e}</p>`;
+  }
+}
+
+async function runPredict() {
+  const home = document.getElementById('homeInput').value.trim();
+  const away = document.getElementById('awayInput').value.trim();
+  const oh = document.getElementById('oddsHome').value;
+  const od = document.getElementById('oddsDraw').value;
+  const oa = document.getElementById('oddsAway').value;
+  if (!home || !away) return;
+
+  let url = `${API}/api/predict?home=${encodeURIComponent(home)}&away=${encodeURIComponent(away)}`;
+  if (oh && od && oa) url += `&odds_home=${oh}&odds_draw=${od}&odds_away=${oa}`;
+
+  const el = document.getElementById('predictResult');
+  el.innerHTML = 'Predicting...';
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error((await res.json()).detail || res.statusText);
+    const p = await res.json();
+    el.innerHTML = `
+      <table>
+        <tr><th>Home win</th><th>Draw</th><th>Away win</th><th>Exp. goals</th></tr>
+        <tr>
+          <td>${(p.p_home*100).toFixed(1)}%</td>
+          <td>${(p.p_draw*100).toFixed(1)}%</td>
+          <td>${(p.p_away*100).toFixed(1)}%</td>
+          <td>${p.expected_goals_home} - ${p.expected_goals_away}</td>
+        </tr>
+      </table>
+      ${p.value_bet_flag !== undefined ? `<p>${p.value_bet_flag ? `<span class="badge badge-value">Value bet: ${p.best_edge_selection}, edge ${(p.best_edge*100).toFixed(1)}%, EV ${(p.expected_value*100).toFixed(1)}%</span>` : '<span class="badge badge-none">No qualifying edge vs given odds</span>'}</p>` : ''}
+    `;
+  } catch (e) {
+    el.innerHTML = `<p style="color:var(--red)">Error: ${e.message}</p>`;
+  }
+}
+
+loadBacktest();
+loadFixtures();
+</script>
+</body>
+</html>
