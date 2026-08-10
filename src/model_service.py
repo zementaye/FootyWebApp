@@ -135,8 +135,12 @@ class ModelService:
         self._train()
 
     def _build_features(self, home_team, away_team, match_date=None):
-        elo_diff = (self.elo_engine.get_rating(home_team, venue="home")
-                    - self.elo_engine.get_rating(away_team, venue="away"))
+        # elo.py's EloRatings uses a single rating per team (plus a fixed home-advantage
+        # constant baked into update()), not separate home/away ratings — the venue= kwarg
+        # belongs to the rejected elo_UPDATED.py variant (see that file's header) and isn't
+        # part of this class's API.
+        elo_diff = (self.elo_engine.get_rating(home_team)
+                    - self.elo_engine.get_rating(away_team))
         ph, pd_, pa = self.dc_model.match_probabilities(home_team, away_team)
         lh, la = self.dc_model.predict_lambdas(home_team, away_team)
 
