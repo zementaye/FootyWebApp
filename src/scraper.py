@@ -60,7 +60,7 @@ def fetch_upcoming_fixtures(leagues=None, timeout=15):
     # Defensive: strip whitespace/BOM from headers — football-data.co.uk has
     # occasionally shipped a leading BOM on the first column name, which turns
     # "Div" into "\ufeffDiv" and breaks the lookup below with a bare KeyError.
-    df.columns = [str(c).strip().lstrip("\ufeff") for c in df.columns]
+    df.columns = [str(c).strip().lstrip("\ufeff").lstrip("ï»¿") for c in df.columns]
 
     if "Div" not in df.columns:
         snippet = resp.text[:200].replace("\n", " ")
@@ -102,3 +102,4 @@ if __name__ == "__main__":
     fx = fetch_upcoming_fixtures(leagues=["E0"])
     for f in fx[:10]:
         print(f)
+        
