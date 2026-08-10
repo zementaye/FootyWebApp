@@ -105,9 +105,18 @@ def predict(home: str = Query(...), away: str = Query(...),
 
 @app.get("/api/fixtures")
 def fixtures():
+    empty_reason = None
+    if not STATE["fixtures_cache"] and not STATE["fixtures_error"]:
+        empty_reason = (
+            "Scrape succeeded but returned no matches for the selected league(s). "
+            "This is expected during the off-season or the days before a season kicks "
+            "off (football-data.co.uk only lists a short rolling window of upcoming, "
+            "priced fixtures). Check back closer to matchday."
+        )
     return {
         "fixtures": STATE["fixtures_cache"],
         "scrape_error": STATE["fixtures_error"],
+        "empty_reason": empty_reason,
         "note": "Odds/predictions refresh every 6 hours. Draws are excluded from value_bet_flag "
                 "based on backtest findings that draw bets lost money consistently.",
     }
