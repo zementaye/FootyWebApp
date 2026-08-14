@@ -1,0 +1,754 @@
+match_id,season,season_code,date,home_team,away_team,fthg,ftag,ftr,hthg,htag,htr,referee,stage,neutral
+ucl202122-manchestercity-rbleipzig-2021-09-15,2021-22,202122,2021-09-15,Manchester City,RB Leipzig,6,3,H,3.0,1.0,H,,League phase / group stage,False
+ucl202122-clubbruggekv-parissaintgermain-2021-09-15,2021-22,202122,2021-09-15,Club Brugge KV,Paris Saint-Germain,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202122-parissaintgermain-manchestercity-2021-09-28,2021-22,202122,2021-09-28,Paris Saint-Germain,Manchester City,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-rbleipzig-clubbruggekv-2021-09-28,2021-22,202122,2021-09-28,RB Leipzig,Club Brugge KV,1,2,A,1.0,2.0,A,,League phase / group stage,False
+ucl202122-clubbruggekv-manchestercity-2021-10-19,2021-22,202122,2021-10-19,Club Brugge KV,Manchester City,1,5,A,0.0,2.0,A,,League phase / group stage,False
+ucl202122-parissaintgermain-rbleipzig-2021-10-19,2021-22,202122,2021-10-19,Paris Saint-Germain,RB Leipzig,3,2,H,1.0,1.0,D,,League phase / group stage,False
+ucl202122-rbleipzig-parissaintgermain-2021-11-03,2021-22,202122,2021-11-03,RB Leipzig,Paris Saint-Germain,2,2,D,1.0,2.0,A,,League phase / group stage,False
+ucl202122-manchestercity-clubbruggekv-2021-11-03,2021-22,202122,2021-11-03,Manchester City,Club Brugge KV,4,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202122-manchestercity-parissaintgermain-2021-11-24,2021-22,202122,2021-11-24,Manchester City,Paris Saint-Germain,2,1,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-clubbruggekv-rbleipzig-2021-11-24,2021-22,202122,2021-11-24,Club Brugge KV,RB Leipzig,0,5,A,0.0,4.0,A,,League phase / group stage,False
+ucl202122-rbleipzig-manchestercity-2021-12-07,2021-22,202122,2021-12-07,RB Leipzig,Manchester City,2,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-parissaintgermain-clubbruggekv-2021-12-07,2021-22,202122,2021-12-07,Paris Saint-Germain,Club Brugge KV,4,1,H,3.0,0.0,H,,League phase / group stage,False
+ucl202122-parissaintgermain-realmadrid-2022-02-15,2021-22,202122,2022-02-15,Paris Saint-Germain,Real Madrid,1,0,H,0.0,0.0,D,,Round of 16,False
+ucl202122-sportingcp-manchestercity-2022-02-15,2021-22,202122,2022-02-15,Sporting CP,Manchester City,0,5,A,0.0,4.0,A,,Round of 16,False
+ucl202122-rbsalzburg-bayernmnchen-2022-02-16,2021-22,202122,2022-02-16,RB Salzburg,Bayern München,1,1,D,1.0,0.0,H,,Round of 16,False
+ucl202122-inter-liverpoolfc-2022-02-16,2021-22,202122,2022-02-16,Inter,Liverpool FC,0,2,A,0.0,0.0,D,,Round of 16,False
+ucl202122-chelseafc-lilleosc-2022-02-22,2021-22,202122,2022-02-22,Chelsea FC,Lille OSC,2,0,H,1.0,0.0,H,,Round of 16,False
+ucl202122-villarrealcf-juventus-2022-02-22,2021-22,202122,2022-02-22,Villarreal CF,Juventus,1,1,D,0.0,1.0,A,,Round of 16,False
+ucl202122-slbenfica-afcajax-2022-02-23,2021-22,202122,2022-02-23,SL Benfica,AFC Ajax,2,2,D,1.0,2.0,A,,Round of 16,False
+ucl202122-atlticomadrid-manchesterunited-2022-02-23,2021-22,202122,2022-02-23,Atlético Madrid,Manchester United,1,1,D,1.0,0.0,H,,Round of 16,False
+ucl202122-bayernmnchen-rbsalzburg-2022-03-08,2021-22,202122,2022-03-08,Bayern München,RB Salzburg,7,1,H,4.0,0.0,H,,Round of 16,False
+ucl202122-liverpoolfc-inter-2022-03-08,2021-22,202122,2022-03-08,Liverpool FC,Inter,0,1,A,0.0,0.0,D,,Round of 16,False
+ucl202122-manchestercity-sportingcp-2022-03-09,2021-22,202122,2022-03-09,Manchester City,Sporting CP,0,0,D,,,,,Round of 16,False
+ucl202122-realmadrid-parissaintgermain-2022-03-09,2021-22,202122,2022-03-09,Real Madrid,Paris Saint-Germain,3,1,H,0.0,1.0,A,,Round of 16,False
+ucl202122-afcajax-slbenfica-2022-03-15,2021-22,202122,2022-03-15,AFC Ajax,SL Benfica,0,1,A,0.0,0.0,D,,Round of 16,False
+ucl202122-manchesterunited-atlticomadrid-2022-03-15,2021-22,202122,2022-03-15,Manchester United,Atlético Madrid,0,1,A,0.0,1.0,A,,Round of 16,False
+ucl202122-lilleosc-chelseafc-2022-03-16,2021-22,202122,2022-03-16,Lille OSC,Chelsea FC,1,2,A,1.0,1.0,D,,Round of 16,False
+ucl202122-juventus-villarrealcf-2022-03-16,2021-22,202122,2022-03-16,Juventus,Villarreal CF,0,3,A,0.0,0.0,D,,Round of 16,False
+ucl202122-manchestercity-atlticomadrid-2022-04-05,2021-22,202122,2022-04-05,Manchester City,Atlético Madrid,1,0,H,0.0,0.0,D,,Quarter-final,False
+ucl202122-slbenfica-liverpoolfc-2022-04-05,2021-22,202122,2022-04-05,SL Benfica,Liverpool FC,1,3,A,0.0,2.0,A,,Quarter-final,False
+ucl202122-chelseafc-realmadrid-2022-04-06,2021-22,202122,2022-04-06,Chelsea FC,Real Madrid,1,3,A,1.0,2.0,A,,Quarter-final,False
+ucl202122-villarrealcf-bayernmnchen-2022-04-06,2021-22,202122,2022-04-06,Villarreal CF,Bayern München,1,0,H,1.0,0.0,H,,Quarter-final,False
+ucl202122-bayernmnchen-villarrealcf-2022-04-12,2021-22,202122,2022-04-12,Bayern München,Villarreal CF,1,1,D,0.0,0.0,D,,Quarter-final,False
+ucl202122-realmadrid-chelseafc-2022-04-12,2021-22,202122,2022-04-12,Real Madrid,Chelsea FC,2,3,A,1.0,3.0,A,,Quarter-final,False
+ucl202122-atlticomadrid-manchestercity-2022-04-13,2021-22,202122,2022-04-13,Atlético Madrid,Manchester City,0,0,D,,,,,Quarter-final,False
+ucl202122-liverpoolfc-slbenfica-2022-04-13,2021-22,202122,2022-04-13,Liverpool FC,SL Benfica,3,3,D,1.0,1.0,D,,Quarter-final,False
+ucl202122-manchestercity-realmadrid-2022-04-26,2021-22,202122,2022-04-26,Manchester City,Real Madrid,4,3,H,2.0,1.0,H,,Semi-final,False
+ucl202122-liverpoolfc-villarrealcf-2022-04-27,2021-22,202122,2022-04-27,Liverpool FC,Villarreal CF,2,0,H,0.0,0.0,D,,Semi-final,False
+ucl202122-villarrealcf-liverpoolfc-2022-05-03,2021-22,202122,2022-05-03,Villarreal CF,Liverpool FC,2,3,A,2.0,0.0,H,,Semi-final,False
+ucl202122-realmadrid-manchestercity-2022-05-04,2021-22,202122,2022-05-04,Real Madrid,Manchester City,3,1,H,2.0,1.0,H,,Semi-final,False
+ucl202122-liverpoolfc-realmadrid-2022-05-28,2021-22,202122,2022-05-28,Liverpool FC,Real Madrid,0,1,A,0.0,0.0,D,,Final,True
+ucl202223-afcajax-rangersfc-2022-09-07,2022-23,202223,2022-09-07,AFC Ajax,Rangers FC,4,0,H,3.0,0.0,H,,League phase / group stage,False
+ucl202223-sscnapoli-liverpoolfc-2022-09-07,2022-23,202223,2022-09-07,SSC Napoli,Liverpool FC,4,1,H,3.0,0.0,H,,League phase / group stage,False
+ucl202223-liverpoolfc-afcajax-2022-09-13,2022-23,202223,2022-09-13,Liverpool FC,AFC Ajax,2,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202223-rangersfc-sscnapoli-2022-09-14,2022-23,202223,2022-09-14,Rangers FC,SSC Napoli,0,3,A,0.0,0.0,D,,League phase / group stage,False
+ucl202122-atlticomadrid-fcporto-2022-09-15,2021-22,202122,2022-09-15,Atlético Madrid,FC Porto,0,0,D,,,,,League phase / group stage,False
+ucl202122-liverpoolfc-acmilan-2022-09-15,2021-22,202122,2022-09-15,Liverpool FC,AC Milan,3,2,H,1.0,2.0,A,,League phase / group stage,False
+ucl202122-acmilan-atlticomadrid-2022-09-28,2021-22,202122,2022-09-28,AC Milan,Atlético Madrid,1,2,A,1.0,0.0,H,,League phase / group stage,False
+ucl202122-fcporto-liverpoolfc-2022-09-28,2021-22,202122,2022-09-28,FC Porto,Liverpool FC,1,5,A,0.0,2.0,A,,League phase / group stage,False
+ucl202223-afcajax-sscnapoli-2022-10-04,2022-23,202223,2022-10-04,AFC Ajax,SSC Napoli,1,6,A,1.0,3.0,A,,League phase / group stage,False
+ucl202223-liverpoolfc-rangersfc-2022-10-04,2022-23,202223,2022-10-04,Liverpool FC,Rangers FC,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202223-sscnapoli-afcajax-2022-10-12,2022-23,202223,2022-10-12,SSC Napoli,AFC Ajax,4,2,H,2.0,0.0,H,,League phase / group stage,False
+ucl202223-rangersfc-liverpoolfc-2022-10-12,2022-23,202223,2022-10-12,Rangers FC,Liverpool FC,1,7,A,1.0,1.0,D,,League phase / group stage,False
+ucl202122-fcporto-acmilan-2022-10-19,2021-22,202122,2022-10-19,FC Porto,AC Milan,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-atlticomadrid-liverpoolfc-2022-10-19,2021-22,202122,2022-10-19,Atlético Madrid,Liverpool FC,2,3,A,2.0,2.0,D,,League phase / group stage,False
+ucl202223-afcajax-liverpoolfc-2022-10-26,2022-23,202223,2022-10-26,AFC Ajax,Liverpool FC,0,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202223-sscnapoli-rangersfc-2022-10-26,2022-23,202223,2022-10-26,SSC Napoli,Rangers FC,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202223-rangersfc-afcajax-2022-11-01,2022-23,202223,2022-11-01,Rangers FC,AFC Ajax,1,3,A,0.0,2.0,A,,League phase / group stage,False
+ucl202223-liverpoolfc-sscnapoli-2022-11-01,2022-23,202223,2022-11-01,Liverpool FC,SSC Napoli,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-liverpoolfc-atlticomadrid-2022-11-03,2021-22,202122,2022-11-03,Liverpool FC,Atlético Madrid,2,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202122-acmilan-fcporto-2022-11-03,2021-22,202122,2022-11-03,AC Milan,FC Porto,1,1,D,0.0,1.0,A,,League phase / group stage,False
+ucl202122-atlticomadrid-acmilan-2022-11-24,2021-22,202122,2022-11-24,Atlético Madrid,AC Milan,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202122-liverpoolfc-fcporto-2022-11-24,2021-22,202122,2022-11-24,Liverpool FC,FC Porto,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-acmilan-liverpoolfc-2022-12-07,2021-22,202122,2022-12-07,AC Milan,Liverpool FC,1,2,A,1.0,1.0,D,,League phase / group stage,False
+ucl202122-fcporto-atlticomadrid-2022-12-07,2021-22,202122,2022-12-07,FC Porto,Atlético Madrid,1,3,A,0.0,0.0,D,,League phase / group stage,False
+ucl202223-parissaintgermain-bayernmnchen-2023-02-14,2022-23,202223,2023-02-14,Paris Saint-Germain,Bayern München,0,1,A,0.0,0.0,D,,Round of 16,False
+ucl202223-acmilan-tottenhamhotspur-2023-02-14,2022-23,202223,2023-02-14,AC Milan,Tottenham Hotspur,1,0,H,1.0,0.0,H,,Round of 16,False
+ucl202223-clubbruggekv-slbenfica-2023-02-15,2022-23,202223,2023-02-15,Club Brugge KV,SL Benfica,0,2,A,0.0,0.0,D,,Round of 16,False
+ucl202223-borussiadortmund-chelseafc-2023-02-15,2022-23,202223,2023-02-15,Borussia Dortmund,Chelsea FC,1,0,H,0.0,0.0,D,,Round of 16,False
+ucl202223-eintrachtfrankfurt-sscnapoli-2023-02-21,2022-23,202223,2023-02-21,Eintracht Frankfurt,SSC Napoli,0,2,A,0.0,1.0,A,,Round of 16,False
+ucl202223-liverpoolfc-realmadrid-2023-02-21,2022-23,202223,2023-02-21,Liverpool FC,Real Madrid,2,5,A,2.0,2.0,D,,Round of 16,False
+ucl202223-rbleipzig-manchestercity-2023-02-22,2022-23,202223,2023-02-22,RB Leipzig,Manchester City,1,1,D,0.0,1.0,A,,Round of 16,False
+ucl202223-inter-fcporto-2023-02-22,2022-23,202223,2023-02-22,Inter,FC Porto,1,0,H,0.0,0.0,D,,Round of 16,False
+ucl202223-slbenfica-clubbruggekv-2023-03-07,2022-23,202223,2023-03-07,SL Benfica,Club Brugge KV,5,1,H,2.0,0.0,H,,Round of 16,False
+ucl202223-chelseafc-borussiadortmund-2023-03-07,2022-23,202223,2023-03-07,Chelsea FC,Borussia Dortmund,2,0,H,1.0,0.0,H,,Round of 16,False
+ucl202223-bayernmnchen-parissaintgermain-2023-03-08,2022-23,202223,2023-03-08,Bayern München,Paris Saint-Germain,2,0,H,0.0,0.0,D,,Round of 16,False
+ucl202223-tottenhamhotspur-acmilan-2023-03-08,2022-23,202223,2023-03-08,Tottenham Hotspur,AC Milan,0,0,D,,,,,Round of 16,False
+ucl202223-manchestercity-rbleipzig-2023-03-14,2022-23,202223,2023-03-14,Manchester City,RB Leipzig,7,0,H,3.0,0.0,H,,Round of 16,False
+ucl202223-fcporto-inter-2023-03-14,2022-23,202223,2023-03-14,FC Porto,Inter,0,0,D,,,,,Round of 16,False
+ucl202223-realmadrid-liverpoolfc-2023-03-15,2022-23,202223,2023-03-15,Real Madrid,Liverpool FC,1,0,H,0.0,0.0,D,,Round of 16,False
+ucl202223-sscnapoli-eintrachtfrankfurt-2023-03-15,2022-23,202223,2023-03-15,SSC Napoli,Eintracht Frankfurt,3,0,H,1.0,0.0,H,,Round of 16,False
+ucl202223-slbenfica-inter-2023-04-11,2022-23,202223,2023-04-11,SL Benfica,Inter,0,2,A,0.0,0.0,D,,Quarter-final,False
+ucl202223-manchestercity-bayernmnchen-2023-04-11,2022-23,202223,2023-04-11,Manchester City,Bayern München,3,0,H,1.0,0.0,H,,Quarter-final,False
+ucl202223-acmilan-sscnapoli-2023-04-12,2022-23,202223,2023-04-12,AC Milan,SSC Napoli,1,0,H,1.0,0.0,H,,Quarter-final,False
+ucl202223-realmadrid-chelseafc-2023-04-12,2022-23,202223,2023-04-12,Real Madrid,Chelsea FC,2,0,H,1.0,0.0,H,,Quarter-final,False
+ucl202223-chelseafc-realmadrid-2023-04-18,2022-23,202223,2023-04-18,Chelsea FC,Real Madrid,0,2,A,0.0,0.0,D,,Quarter-final,False
+ucl202223-sscnapoli-acmilan-2023-04-18,2022-23,202223,2023-04-18,SSC Napoli,AC Milan,1,1,D,0.0,1.0,A,,Quarter-final,False
+ucl202223-inter-slbenfica-2023-04-19,2022-23,202223,2023-04-19,Inter,SL Benfica,3,3,D,1.0,1.0,D,,Quarter-final,False
+ucl202223-bayernmnchen-manchestercity-2023-04-19,2022-23,202223,2023-04-19,Bayern München,Manchester City,1,1,D,0.0,0.0,D,,Quarter-final,False
+ucl202223-realmadrid-manchestercity-2023-05-09,2022-23,202223,2023-05-09,Real Madrid,Manchester City,1,1,D,1.0,0.0,H,,Semi-final,False
+ucl202223-acmilan-inter-2023-05-10,2022-23,202223,2023-05-10,AC Milan,Inter,0,2,A,0.0,2.0,A,,Semi-final,False
+ucl202223-inter-acmilan-2023-05-16,2022-23,202223,2023-05-16,Inter,AC Milan,1,0,H,0.0,0.0,D,,Semi-final,False
+ucl202223-manchestercity-realmadrid-2023-05-17,2022-23,202223,2023-05-17,Manchester City,Real Madrid,4,0,H,2.0,0.0,H,,Semi-final,False
+ucl202223-manchestercity-inter-2023-06-10,2022-23,202223,2023-06-10,Manchester City,Inter,1,0,H,0.0,0.0,D,,Final,True
+ucl202223-atlticomadrid-fcporto-2023-09-07,2022-23,202223,2023-09-07,Atlético Madrid,FC Porto,2,1,H,0.0,0.0,D,,League phase / group stage,False
+ucl202223-clubbruggekv-bayerleverkusen-2023-09-07,2022-23,202223,2023-09-07,Club Brugge KV,Bayer Leverkusen,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202223-bayerleverkusen-atlticomadrid-2023-09-13,2022-23,202223,2023-09-13,Bayer Leverkusen,Atlético Madrid,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202223-fcporto-clubbruggekv-2023-09-13,2022-23,202223,2023-09-13,FC Porto,Club Brugge KV,0,4,A,0.0,1.0,A,,League phase / group stage,False
+ucl202122-beikta-borussiadortmund-2023-09-15,2021-22,202122,2023-09-15,Beşiktaş,Borussia Dortmund,1,2,A,0.0,2.0,A,,League phase / group stage,False
+ucl202122-sportingcp-afcajax-2023-09-15,2021-22,202122,2023-09-15,Sporting CP,AFC Ajax,1,5,A,1.0,3.0,A,,League phase / group stage,False
+ucl202324-feyenoordrotterdam-celticfc-2023-09-19,2023-24,202324,2023-09-19,Feyenoord Rotterdam,Celtic FC,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-bscyoungboys-rbleipzig-2023-09-19,2023-24,202324,2023-09-19,BSC Young Boys,RB Leipzig,1,3,A,1.0,1.0,D,,League phase / group stage,False
+ucl202324-acmilan-newcastleunitedfc-2023-09-19,2023-24,202324,2023-09-19,AC Milan,Newcastle United FC,0,0,D,,,,,League phase / group stage,False
+ucl202324-parissaintgermainfc-borussiadortmund-2023-09-19,2023-24,202324,2023-09-19,Paris Saint-Germain FC,Borussia Dortmund,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202324-manchestercityfc-fkcrvenazvezda-2023-09-19,2023-24,202324,2023-09-19,Manchester City FC,FK Crvena Zvezda,3,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202324-fcbarcelona-royalantwerpfc-2023-09-19,2023-24,202324,2023-09-19,FC Barcelona,Royal Antwerp FC,5,0,H,3.0,0.0,H,,League phase / group stage,False
+ucl202324-fkshakhtardonetsk-fcporto-2023-09-19,2023-24,202324,2023-09-19,FK Shakhtar Donetsk,FC Porto,1,3,A,1.0,3.0,A,,League phase / group stage,False
+ucl202324-sslazio-clubatlticodemadrid-2023-09-19,2023-24,202324,2023-09-19,SS Lazio,Club Atlético de Madrid,1,1,D,0.0,1.0,A,,League phase / group stage,False
+ucl202324-sportlisboaebenfica-fcredbullsalzburg-2023-09-20,2023-24,202324,2023-09-20,Sport Lisboa e Benfica,FC Red Bull Salzburg,0,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202324-realmadridcf-1fcunionberlin-2023-09-20,2023-24,202324,2023-09-20,Real Madrid CF,1. FC Union Berlin,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202324-galatasaraysk-fckbenhavn-2023-09-20,2023-24,202324,2023-09-20,Galatasaray SK,FC København,2,2,D,0.0,1.0,A,,League phase / group stage,False
+ucl202324-sevillafc-racingclubdelens-2023-09-20,2023-24,202324,2023-09-20,Sevilla FC,Racing Club de Lens,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202324-sportingclubedebraga-sscnapoli-2023-09-20,2023-24,202324,2023-09-20,Sporting Clube de Braga,SSC Napoli,1,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202324-realsociedaddeftbol-fcinternazionalemilano-2023-09-20,2023-24,202324,2023-09-20,Real Sociedad de Fútbol,FC Internazionale Milano,1,1,D,1.0,0.0,H,,League phase / group stage,False
+ucl202324-fcbayernmnchen-manchesterunitedfc-2023-09-20,2023-24,202324,2023-09-20,FC Bayern München,Manchester United FC,4,3,H,2.0,0.0,H,,League phase / group stage,False
+ucl202324-arsenalfc-psv-2023-09-20,2023-24,202324,2023-09-20,Arsenal FC,PSV,4,0,H,3.0,0.0,H,,League phase / group stage,False
+ucl202122-afcajax-beikta-2023-09-28,2021-22,202122,2023-09-28,AFC Ajax,Beşiktaş,2,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202122-borussiadortmund-sportingcp-2023-09-28,2021-22,202122,2023-09-28,Borussia Dortmund,Sporting CP,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-1fcunionberlin-sportingclubedebraga-2023-10-03,2023-24,202324,2023-10-03,1. FC Union Berlin,Sporting Clube de Braga,2,3,A,2.0,1.0,H,,League phase / group stage,False
+ucl202324-fcredbullsalzburg-realsociedaddeftbol-2023-10-03,2023-24,202324,2023-10-03,FC Red Bull Salzburg,Real Sociedad de Fútbol,0,2,A,0.0,2.0,A,,League phase / group stage,False
+ucl202324-sscnapoli-realmadridcf-2023-10-03,2023-24,202324,2023-10-03,SSC Napoli,Real Madrid CF,2,3,A,1.0,2.0,A,,League phase / group stage,False
+ucl202324-fcinternazionalemilano-sportlisboaebenfica-2023-10-03,2023-24,202324,2023-10-03,FC Internazionale Milano,Sport Lisboa e Benfica,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202324-fckbenhavn-fcbayernmnchen-2023-10-03,2023-24,202324,2023-10-03,FC København,FC Bayern München,1,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202324-manchesterunitedfc-galatasaraysk-2023-10-03,2023-24,202324,2023-10-03,Manchester United FC,Galatasaray SK,2,3,A,1.0,1.0,D,,League phase / group stage,False
+ucl202324-racingclubdelens-arsenalfc-2023-10-03,2023-24,202324,2023-10-03,Racing Club de Lens,Arsenal FC,2,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202324-psv-sevillafc-2023-10-03,2023-24,202324,2023-10-03,PSV,Sevilla FC,2,2,D,0.0,0.0,D,,League phase / group stage,False
+ucl202223-clubbruggekv-atlticomadrid-2023-10-04,2022-23,202223,2023-10-04,Club Brugge KV,Atlético Madrid,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202223-fcporto-bayerleverkusen-2023-10-04,2022-23,202223,2023-10-04,FC Porto,Bayer Leverkusen,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202324-fkcrvenazvezda-bscyoungboys-2023-10-04,2023-24,202324,2023-10-04,FK Crvena Zvezda,BSC Young Boys,2,2,D,1.0,0.0,H,,League phase / group stage,False
+ucl202324-clubatlticodemadrid-feyenoordrotterdam-2023-10-04,2023-24,202324,2023-10-04,Club Atlético de Madrid,Feyenoord Rotterdam,3,2,H,2.0,2.0,D,,League phase / group stage,False
+ucl202324-royalantwerpfc-fkshakhtardonetsk-2023-10-04,2023-24,202324,2023-10-04,Royal Antwerp FC,FK Shakhtar Donetsk,2,3,A,2.0,0.0,H,,League phase / group stage,False
+ucl202324-celticfc-sslazio-2023-10-04,2023-24,202324,2023-10-04,Celtic FC,SS Lazio,1,2,A,1.0,1.0,D,,League phase / group stage,False
+ucl202324-fcporto-fcbarcelona-2023-10-04,2023-24,202324,2023-10-04,FC Porto,FC Barcelona,0,1,A,0.0,1.0,A,,League phase / group stage,False
+ucl202324-rbleipzig-manchestercityfc-2023-10-04,2023-24,202324,2023-10-04,RB Leipzig,Manchester City FC,1,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202324-borussiadortmund-acmilan-2023-10-04,2023-24,202324,2023-10-04,Borussia Dortmund,AC Milan,0,0,D,,,,,League phase / group stage,False
+ucl202324-newcastleunitedfc-parissaintgermainfc-2023-10-04,2023-24,202324,2023-10-04,Newcastle United FC,Paris Saint-Germain FC,4,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202223-atlticomadrid-clubbruggekv-2023-10-12,2022-23,202223,2023-10-12,Atlético Madrid,Club Brugge KV,0,0,D,,,,,League phase / group stage,False
+ucl202223-bayerleverkusen-fcporto-2023-10-12,2022-23,202223,2023-10-12,Bayer Leverkusen,FC Porto,0,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202122-beikta-sportingcp-2023-10-19,2021-22,202122,2023-10-19,Beşiktaş,Sporting CP,1,4,A,1.0,3.0,A,,League phase / group stage,False
+ucl202122-afcajax-borussiadortmund-2023-10-19,2021-22,202122,2023-10-19,AFC Ajax,Borussia Dortmund,4,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202324-fcinternazionalemilano-fcredbullsalzburg-2023-10-24,2023-24,202324,2023-10-24,FC Internazionale Milano,FC Red Bull Salzburg,2,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-racingclubdelens-psv-2023-10-24,2023-24,202324,2023-10-24,Racing Club de Lens,PSV,1,1,D,0.0,0.0,D,,League phase / group stage,False
+ucl202324-manchesterunitedfc-fckbenhavn-2023-10-24,2023-24,202324,2023-10-24,Manchester United FC,FC København,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202324-sportlisboaebenfica-realsociedaddeftbol-2023-10-24,2023-24,202324,2023-10-24,Sport Lisboa e Benfica,Real Sociedad de Fútbol,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202324-sevillafc-arsenalfc-2023-10-24,2023-24,202324,2023-10-24,Sevilla FC,Arsenal FC,1,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202324-1fcunionberlin-sscnapoli-2023-10-24,2023-24,202324,2023-10-24,1. FC Union Berlin,SSC Napoli,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202324-galatasaraysk-fcbayernmnchen-2023-10-24,2023-24,202324,2023-10-24,Galatasaray SK,FC Bayern München,1,3,A,1.0,1.0,D,,League phase / group stage,False
+ucl202324-sportingclubedebraga-realmadridcf-2023-10-24,2023-24,202324,2023-10-24,Sporting Clube de Braga,Real Madrid CF,1,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202324-rbleipzig-fkcrvenazvezda-2023-10-25,2023-24,202324,2023-10-25,RB Leipzig,FK Crvena Zvezda,3,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-feyenoordrotterdam-sslazio-2023-10-25,2023-24,202324,2023-10-25,Feyenoord Rotterdam,SS Lazio,3,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202324-fcbarcelona-fkshakhtardonetsk-2023-10-25,2023-24,202324,2023-10-25,FC Barcelona,FK Shakhtar Donetsk,2,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202324-celticfc-clubatlticodemadrid-2023-10-25,2023-24,202324,2023-10-25,Celtic FC,Club Atlético de Madrid,2,2,D,2.0,1.0,H,,League phase / group stage,False
+ucl202324-parissaintgermainfc-acmilan-2023-10-25,2023-24,202324,2023-10-25,Paris Saint-Germain FC,AC Milan,3,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-newcastleunitedfc-borussiadortmund-2023-10-25,2023-24,202324,2023-10-25,Newcastle United FC,Borussia Dortmund,0,1,A,0.0,1.0,A,,League phase / group stage,False
+ucl202324-bscyoungboys-manchestercityfc-2023-10-25,2023-24,202324,2023-10-25,BSC Young Boys,Manchester City FC,1,3,A,0.0,0.0,D,,League phase / group stage,False
+ucl202324-royalantwerpfc-fcporto-2023-10-25,2023-24,202324,2023-10-25,Royal Antwerp FC,FC Porto,1,4,A,1.0,0.0,H,,League phase / group stage,False
+ucl202223-clubbruggekv-fcporto-2023-10-26,2022-23,202223,2023-10-26,Club Brugge KV,FC Porto,0,4,A,0.0,1.0,A,,League phase / group stage,False
+ucl202223-atlticomadrid-bayerleverkusen-2023-10-26,2022-23,202223,2023-10-26,Atlético Madrid,Bayer Leverkusen,2,2,D,1.0,2.0,A,,League phase / group stage,False
+ucl202223-bayerleverkusen-clubbruggekv-2023-11-01,2022-23,202223,2023-11-01,Bayer Leverkusen,Club Brugge KV,0,0,D,,,,,League phase / group stage,False
+ucl202223-fcporto-atlticomadrid-2023-11-01,2022-23,202223,2023-11-01,FC Porto,Atlético Madrid,2,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202122-borussiadortmund-afcajax-2023-11-03,2021-22,202122,2023-11-03,Borussia Dortmund,AFC Ajax,1,3,A,1.0,0.0,H,,League phase / group stage,False
+ucl202122-sportingcp-beikta-2023-11-03,2021-22,202122,2023-11-03,Sporting CP,Beşiktaş,4,0,H,3.0,0.0,H,,League phase / group stage,False
+ucl202324-borussiadortmund-newcastleunitedfc-2023-11-07,2023-24,202324,2023-11-07,Borussia Dortmund,Newcastle United FC,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-fkshakhtardonetsk-fcbarcelona-2023-11-07,2023-24,202324,2023-11-07,FK Shakhtar Donetsk,FC Barcelona,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-clubatlticodemadrid-celticfc-2023-11-07,2023-24,202324,2023-11-07,Club Atlético de Madrid,Celtic FC,6,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202324-sslazio-feyenoordrotterdam-2023-11-07,2023-24,202324,2023-11-07,SS Lazio,Feyenoord Rotterdam,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-acmilan-parissaintgermainfc-2023-11-07,2023-24,202324,2023-11-07,AC Milan,Paris Saint-Germain FC,2,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202324-manchestercityfc-bscyoungboys-2023-11-07,2023-24,202324,2023-11-07,Manchester City FC,BSC Young Boys,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202324-fkcrvenazvezda-rbleipzig-2023-11-07,2023-24,202324,2023-11-07,FK Crvena Zvezda,RB Leipzig,1,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202324-fcporto-royalantwerpfc-2023-11-07,2023-24,202324,2023-11-07,FC Porto,Royal Antwerp FC,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-realsociedaddeftbol-sportlisboaebenfica-2023-11-08,2023-24,202324,2023-11-08,Real Sociedad de Fútbol,Sport Lisboa e Benfica,3,1,H,3.0,0.0,H,,League phase / group stage,False
+ucl202324-realmadridcf-sportingclubedebraga-2023-11-08,2023-24,202324,2023-11-08,Real Madrid CF,Sporting Clube de Braga,3,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-fcredbullsalzburg-fcinternazionalemilano-2023-11-08,2023-24,202324,2023-11-08,FC Red Bull Salzburg,FC Internazionale Milano,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202324-fcbayernmnchen-galatasaraysk-2023-11-08,2023-24,202324,2023-11-08,FC Bayern München,Galatasaray SK,2,1,H,0.0,0.0,D,,League phase / group stage,False
+ucl202324-fckbenhavn-manchesterunitedfc-2023-11-08,2023-24,202324,2023-11-08,FC København,Manchester United FC,4,3,H,2.0,2.0,D,,League phase / group stage,False
+ucl202324-arsenalfc-sevillafc-2023-11-08,2023-24,202324,2023-11-08,Arsenal FC,Sevilla FC,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-psv-racingclubdelens-2023-11-08,2023-24,202324,2023-11-08,PSV,Racing Club de Lens,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-sscnapoli-1fcunionberlin-2023-11-08,2023-24,202324,2023-11-08,SSC Napoli,1. FC Union Berlin,1,1,D,1.0,0.0,H,,League phase / group stage,False
+ucl202122-beikta-afcajax-2023-11-24,2021-22,202122,2023-11-24,Beşiktaş,AFC Ajax,1,2,A,1.0,0.0,H,,League phase / group stage,False
+ucl202122-sportingcp-borussiadortmund-2023-11-24,2021-22,202122,2023-11-24,Sporting CP,Borussia Dortmund,3,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202324-feyenoordrotterdam-clubatlticodemadrid-2023-11-28,2023-24,202324,2023-11-28,Feyenoord Rotterdam,Club Atlético de Madrid,1,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202324-fkshakhtardonetsk-royalantwerpfc-2023-11-28,2023-24,202324,2023-11-28,FK Shakhtar Donetsk,Royal Antwerp FC,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-manchestercityfc-rbleipzig-2023-11-28,2023-24,202324,2023-11-28,Manchester City FC,RB Leipzig,3,2,H,0.0,2.0,A,,League phase / group stage,False
+ucl202324-bscyoungboys-fkcrvenazvezda-2023-11-28,2023-24,202324,2023-11-28,BSC Young Boys,FK Crvena Zvezda,2,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202324-parissaintgermainfc-newcastleunitedfc-2023-11-28,2023-24,202324,2023-11-28,Paris Saint-Germain FC,Newcastle United FC,1,1,D,0.0,1.0,A,,League phase / group stage,False
+ucl202324-acmilan-borussiadortmund-2023-11-28,2023-24,202324,2023-11-28,AC Milan,Borussia Dortmund,1,3,A,1.0,1.0,D,,League phase / group stage,False
+ucl202324-sslazio-celticfc-2023-11-28,2023-24,202324,2023-11-28,SS Lazio,Celtic FC,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202324-fcbarcelona-fcporto-2023-11-28,2023-24,202324,2023-11-28,FC Barcelona,FC Porto,2,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202324-arsenalfc-racingclubdelens-2023-11-29,2023-24,202324,2023-11-29,Arsenal FC,Racing Club de Lens,6,0,H,5.0,0.0,H,,League phase / group stage,False
+ucl202324-realsociedaddeftbol-fcredbullsalzburg-2023-11-29,2023-24,202324,2023-11-29,Real Sociedad de Fútbol,FC Red Bull Salzburg,0,0,D,,,,,League phase / group stage,False
+ucl202324-sportlisboaebenfica-fcinternazionalemilano-2023-11-29,2023-24,202324,2023-11-29,Sport Lisboa e Benfica,FC Internazionale Milano,3,3,D,3.0,0.0,H,,League phase / group stage,False
+ucl202324-realmadridcf-sscnapoli-2023-11-29,2023-24,202324,2023-11-29,Real Madrid CF,SSC Napoli,4,2,H,2.0,1.0,H,,League phase / group stage,False
+ucl202324-sevillafc-psv-2023-11-29,2023-24,202324,2023-11-29,Sevilla FC,PSV,2,3,A,1.0,0.0,H,,League phase / group stage,False
+ucl202324-sportingclubedebraga-1fcunionberlin-2023-11-29,2023-24,202324,2023-11-29,Sporting Clube de Braga,1. FC Union Berlin,1,1,D,0.0,1.0,A,,League phase / group stage,False
+ucl202324-galatasaraysk-manchesterunitedfc-2023-11-29,2023-24,202324,2023-11-29,Galatasaray SK,Manchester United FC,3,3,D,1.0,2.0,A,,League phase / group stage,False
+ucl202324-fcbayernmnchen-fckbenhavn-2023-11-29,2023-24,202324,2023-11-29,FC Bayern München,FC København,0,0,D,,,,,League phase / group stage,False
+ucl202122-borussiadortmund-beikta-2023-12-07,2021-22,202122,2023-12-07,Borussia Dortmund,Beşiktaş,5,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202122-afcajax-sportingcp-2023-12-07,2021-22,202122,2023-12-07,AFC Ajax,Sporting CP,4,2,H,2.0,1.0,H,,League phase / group stage,False
+ucl202324-manchesterunitedfc-fcbayernmnchen-2023-12-12,2023-24,202324,2023-12-12,Manchester United FC,FC Bayern München,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202324-fcinternazionalemilano-realsociedaddeftbol-2023-12-12,2023-24,202324,2023-12-12,FC Internazionale Milano,Real Sociedad de Fútbol,0,0,D,,,,,League phase / group stage,False
+ucl202324-sscnapoli-sportingclubedebraga-2023-12-12,2023-24,202324,2023-12-12,SSC Napoli,Sporting Clube de Braga,2,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202324-1fcunionberlin-realmadridcf-2023-12-12,2023-24,202324,2023-12-12,1. FC Union Berlin,Real Madrid CF,2,3,A,1.0,0.0,H,,League phase / group stage,False
+ucl202324-racingclubdelens-sevillafc-2023-12-12,2023-24,202324,2023-12-12,Racing Club de Lens,Sevilla FC,2,1,H,0.0,0.0,D,,League phase / group stage,False
+ucl202324-psv-arsenalfc-2023-12-12,2023-24,202324,2023-12-12,PSV,Arsenal FC,1,1,D,0.0,1.0,A,,League phase / group stage,False
+ucl202324-fckbenhavn-galatasaraysk-2023-12-12,2023-24,202324,2023-12-12,FC København,Galatasaray SK,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202324-fcredbullsalzburg-sportlisboaebenfica-2023-12-12,2023-24,202324,2023-12-12,FC Red Bull Salzburg,Sport Lisboa e Benfica,1,3,A,0.0,2.0,A,,League phase / group stage,False
+ucl202324-clubatlticodemadrid-sslazio-2023-12-13,2023-24,202324,2023-12-13,Club Atlético de Madrid,SS Lazio,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-celticfc-feyenoordrotterdam-2023-12-13,2023-24,202324,2023-12-13,Celtic FC,Feyenoord Rotterdam,2,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202324-newcastleunitedfc-acmilan-2023-12-13,2023-24,202324,2023-12-13,Newcastle United FC,AC Milan,1,2,A,1.0,0.0,H,,League phase / group stage,False
+ucl202324-borussiadortmund-parissaintgermainfc-2023-12-13,2023-24,202324,2023-12-13,Borussia Dortmund,Paris Saint-Germain FC,1,1,D,0.0,0.0,D,,League phase / group stage,False
+ucl202324-royalantwerpfc-fcbarcelona-2023-12-13,2023-24,202324,2023-12-13,Royal Antwerp FC,FC Barcelona,3,2,H,1.0,1.0,D,,League phase / group stage,False
+ucl202324-fcporto-fkshakhtardonetsk-2023-12-13,2023-24,202324,2023-12-13,FC Porto,FK Shakhtar Donetsk,5,3,H,2.0,1.0,H,,League phase / group stage,False
+ucl202324-rbleipzig-bscyoungboys-2023-12-13,2023-24,202324,2023-12-13,RB Leipzig,BSC Young Boys,2,1,H,0.0,0.0,D,,League phase / group stage,False
+ucl202324-fkcrvenazvezda-manchestercityfc-2023-12-13,2023-24,202324,2023-12-13,FK Crvena Zvezda,Manchester City FC,2,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202324-rbleipzig-realmadridcf-2024-02-13,2023-24,202324,2024-02-13,RB Leipzig,Real Madrid CF,0,1,A,0.0,0.0,D,,Round of 16,False
+ucl202324-fckbenhavn-manchestercityfc-2024-02-13,2023-24,202324,2024-02-13,FC København,Manchester City FC,1,3,A,1.0,2.0,A,,Round of 16,False
+ucl202324-parissaintgermainfc-realsociedaddeftbol-2024-02-14,2023-24,202324,2024-02-14,Paris Saint-Germain FC,Real Sociedad de Fútbol,2,0,H,0.0,0.0,D,,Round of 16,False
+ucl202324-sslazio-fcbayernmnchen-2024-02-14,2023-24,202324,2024-02-14,SS Lazio,FC Bayern München,1,0,H,0.0,0.0,D,,Round of 16,False
+ucl202324-fcinternazionalemilano-clubatlticodemadrid-2024-02-20,2023-24,202324,2024-02-20,FC Internazionale Milano,Club Atlético de Madrid,1,0,H,0.0,0.0,D,,Round of 16,False
+ucl202324-psv-borussiadortmund-2024-02-20,2023-24,202324,2024-02-20,PSV,Borussia Dortmund,1,1,D,0.0,1.0,A,,Round of 16,False
+ucl202324-sscnapoli-fcbarcelona-2024-02-21,2023-24,202324,2024-02-21,SSC Napoli,FC Barcelona,1,1,D,0.0,0.0,D,,Round of 16,False
+ucl202324-fcporto-arsenalfc-2024-02-21,2023-24,202324,2024-02-21,FC Porto,Arsenal FC,1,0,H,0.0,0.0,D,,Round of 16,False
+ucl202324-fcbayernmnchen-sslazio-2024-03-05,2023-24,202324,2024-03-05,FC Bayern München,SS Lazio,3,0,H,2.0,0.0,H,,Round of 16,False
+ucl202324-realsociedaddeftbol-parissaintgermainfc-2024-03-05,2023-24,202324,2024-03-05,Real Sociedad de Fútbol,Paris Saint-Germain FC,1,2,A,0.0,1.0,A,,Round of 16,False
+ucl202324-realmadridcf-rbleipzig-2024-03-06,2023-24,202324,2024-03-06,Real Madrid CF,RB Leipzig,1,1,D,0.0,0.0,D,,Round of 16,False
+ucl202324-manchestercityfc-fckbenhavn-2024-03-06,2023-24,202324,2024-03-06,Manchester City FC,FC København,3,1,H,3.0,1.0,H,,Round of 16,False
+ucl202324-fcbarcelona-sscnapoli-2024-03-12,2023-24,202324,2024-03-12,FC Barcelona,SSC Napoli,3,1,H,2.0,1.0,H,,Round of 16,False
+ucl202324-arsenalfc-fcporto-2024-03-12,2023-24,202324,2024-03-12,Arsenal FC,FC Porto,1,0,H,1.0,0.0,H,,Round of 16,False
+ucl202324-borussiadortmund-psv-2024-03-13,2023-24,202324,2024-03-13,Borussia Dortmund,PSV,2,0,H,1.0,0.0,H,,Round of 16,False
+ucl202324-clubatlticodemadrid-fcinternazionalemilano-2024-03-13,2023-24,202324,2024-03-13,Club Atlético de Madrid,FC Internazionale Milano,2,1,H,2.0,1.0,H,,Round of 16,False
+ucl202324-realmadridcf-manchestercityfc-2024-04-09,2023-24,202324,2024-04-09,Real Madrid CF,Manchester City FC,3,3,D,2.0,1.0,H,,Quarter-final,False
+ucl202324-arsenalfc-fcbayernmnchen-2024-04-09,2023-24,202324,2024-04-09,Arsenal FC,FC Bayern München,2,2,D,1.0,2.0,A,,Quarter-final,False
+ucl202324-clubatlticodemadrid-borussiadortmund-2024-04-10,2023-24,202324,2024-04-10,Club Atlético de Madrid,Borussia Dortmund,2,1,H,2.0,0.0,H,,Quarter-final,False
+ucl202324-parissaintgermainfc-fcbarcelona-2024-04-10,2023-24,202324,2024-04-10,Paris Saint-Germain FC,FC Barcelona,2,3,A,0.0,1.0,A,,Quarter-final,False
+ucl202324-fcbarcelona-parissaintgermainfc-2024-04-16,2023-24,202324,2024-04-16,FC Barcelona,Paris Saint-Germain FC,1,4,A,1.0,1.0,D,,Quarter-final,False
+ucl202324-borussiadortmund-clubatlticodemadrid-2024-04-16,2023-24,202324,2024-04-16,Borussia Dortmund,Club Atlético de Madrid,4,2,H,2.0,0.0,H,,Quarter-final,False
+ucl202324-manchestercityfc-realmadridcf-2024-04-17,2023-24,202324,2024-04-17,Manchester City FC,Real Madrid CF,1,1,D,1.0,1.0,D,,Quarter-final,False
+ucl202324-fcbayernmnchen-arsenalfc-2024-04-17,2023-24,202324,2024-04-17,FC Bayern München,Arsenal FC,1,0,H,0.0,0.0,D,,Quarter-final,False
+ucl202324-fcbayernmnchen-realmadridcf-2024-04-30,2023-24,202324,2024-04-30,FC Bayern München,Real Madrid CF,2,2,D,0.0,1.0,A,,Semi-final,False
+ucl202324-borussiadortmund-parissaintgermainfc-2024-05-01,2023-24,202324,2024-05-01,Borussia Dortmund,Paris Saint-Germain FC,1,0,H,1.0,0.0,H,,Semi-final,False
+ucl202324-parissaintgermainfc-borussiadortmund-2024-05-07,2023-24,202324,2024-05-07,Paris Saint-Germain FC,Borussia Dortmund,0,1,A,0.0,0.0,D,,Semi-final,False
+ucl202324-realmadridcf-fcbayernmnchen-2024-05-08,2023-24,202324,2024-05-08,Real Madrid CF,FC Bayern München,2,1,H,0.0,0.0,D,,Semi-final,False
+ucl202324-borussiadortmund-realmadridcf-2024-06-01,2023-24,202324,2024-06-01,Borussia Dortmund,Real Madrid CF,0,2,A,0.0,0.0,D,,Final,True
+ucl202223-fcbarcelona-viktoriaplze-2024-09-07,2022-23,202223,2024-09-07,FC Barcelona,Viktoria Plzeň,5,1,H,3.0,1.0,H,,League phase / group stage,False
+ucl202223-inter-bayernmnchen-2024-09-07,2022-23,202223,2024-09-07,Inter,Bayern München,0,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202223-bayernmnchen-fcbarcelona-2024-09-13,2022-23,202223,2024-09-13,Bayern München,FC Barcelona,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202223-viktoriaplze-inter-2024-09-13,2022-23,202223,2024-09-13,Viktoria Plzeň,Inter,0,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202122-fcsheriff-shakhtardonetsk-2024-09-15,2021-22,202122,2024-09-15,FC Sheriff,Shakhtar Donetsk,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-inter-realmadrid-2024-09-15,2021-22,202122,2024-09-15,Inter,Real Madrid,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202425-bscyoungboys-astonvillafc-2024-09-17,2024-25,202425,2024-09-17,BSC Young Boys,Aston Villa FC,0,3,A,0.0,2.0,A,,League phase / group stage,False
+ucl202425-sportingclubedeportugal-lilleosc-2024-09-17,2024-25,202425,2024-09-17,Sporting Clube de Portugal,Lille OSC,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-fcbayernmnchen-gnkdinamozagreb-2024-09-17,2024-25,202425,2024-09-17,FC Bayern München,GNK Dinamo Zagreb,9,2,H,3.0,0.0,H,,League phase / group stage,False
+ucl202425-realmadridcf-vfbstuttgart-2024-09-17,2024-25,202425,2024-09-17,Real Madrid CF,VfB Stuttgart,3,1,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-acmilan-liverpoolfc-2024-09-17,2024-25,202425,2024-09-17,AC Milan,Liverpool FC,1,3,A,1.0,2.0,A,,League phase / group stage,False
+ucl202425-juventusfc-psv-2024-09-17,2024-25,202425,2024-09-17,Juventus FC,PSV,3,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202425-parissaintgermainfc-gironafc-2024-09-18,2024-25,202425,2024-09-18,Paris Saint-Germain FC,Girona FC,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-celticfc-kslovanbratislava-2024-09-18,2024-25,202425,2024-09-18,Celtic FC,ŠK Slovan Bratislava,5,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-manchestercityfc-fcinternazionalemilano-2024-09-18,2024-25,202425,2024-09-18,Manchester City FC,FC Internazionale Milano,0,0,D,,,,,League phase / group stage,False
+ucl202425-bolognafc1909-fkshakhtardonetsk-2024-09-18,2024-25,202425,2024-09-18,Bologna FC 1909,FK Shakhtar Donetsk,0,0,D,,,,,League phase / group stage,False
+ucl202425-acspartapraha-fcredbullsalzburg-2024-09-18,2024-25,202425,2024-09-18,AC Sparta Praha,FC Red Bull Salzburg,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202425-clubbruggekv-borussiadortmund-2024-09-18,2024-25,202425,2024-09-18,Club Brugge KV,Borussia Dortmund,0,3,A,0.0,0.0,D,,League phase / group stage,False
+ucl202425-feyenoordrotterdam-bayer04leverkusen-2024-09-19,2024-25,202425,2024-09-19,Feyenoord Rotterdam,Bayer 04 Leverkusen,0,4,A,0.0,4.0,A,,League phase / group stage,False
+ucl202425-asmonacofc-fcbarcelona-2024-09-19,2024-25,202425,2024-09-19,AS Monaco FC,FC Barcelona,2,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202425-stadebrestois29-sksturmgraz-2024-09-19,2024-25,202425,2024-09-19,Stade Brestois 29,SK Sturm Graz,2,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202425-atalantabc-arsenalfc-2024-09-19,2024-25,202425,2024-09-19,Atalanta BC,Arsenal FC,0,0,D,,,,,League phase / group stage,False
+ucl202425-clubatlticodemadrid-rbleipzig-2024-09-19,2024-25,202425,2024-09-19,Club Atlético de Madrid,RB Leipzig,2,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202425-fkcrvenazvezda-sportlisboaebenfica-2024-09-19,2024-25,202425,2024-09-19,FK Crvena Zvezda,Sport Lisboa e Benfica,1,2,A,0.0,2.0,A,,League phase / group stage,False
+ucl202122-shakhtardonetsk-inter-2024-09-28,2021-22,202122,2024-09-28,Shakhtar Donetsk,Inter,0,0,D,,,,,League phase / group stage,False
+ucl202122-realmadrid-fcsheriff-2024-09-28,2021-22,202122,2024-09-28,Real Madrid,FC Sheriff,1,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-fcinternazionalemilano-fkcrvenazvezda-2024-10-01,2024-25,202425,2024-10-01,FC Internazionale Milano,FK Crvena Zvezda,4,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-kslovanbratislava-manchestercityfc-2024-10-01,2024-25,202425,2024-10-01,ŠK Slovan Bratislava,Manchester City FC,0,4,A,0.0,2.0,A,,League phase / group stage,False
+ucl202425-fcredbullsalzburg-stadebrestois29-2024-10-01,2024-25,202425,2024-10-01,FC Red Bull Salzburg,Stade Brestois 29,0,4,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-vfbstuttgart-acspartapraha-2024-10-01,2024-25,202425,2024-10-01,VfB Stuttgart,AC Sparta Praha,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202425-bayer04leverkusen-acmilan-2024-10-01,2024-25,202425,2024-10-01,Bayer 04 Leverkusen,AC Milan,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-arsenalfc-parissaintgermainfc-2024-10-01,2024-25,202425,2024-10-01,Arsenal FC,Paris Saint-Germain FC,2,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202425-psv-sportingclubedeportugal-2024-10-01,2024-25,202425,2024-10-01,PSV,Sporting Clube de Portugal,1,1,D,1.0,0.0,H,,League phase / group stage,False
+ucl202425-fcbarcelona-bscyoungboys-2024-10-01,2024-25,202425,2024-10-01,FC Barcelona,BSC Young Boys,5,0,H,3.0,0.0,H,,League phase / group stage,False
+ucl202425-borussiadortmund-celticfc-2024-10-01,2024-25,202425,2024-10-01,Borussia Dortmund,Celtic FC,7,1,H,5.0,1.0,H,,League phase / group stage,False
+ucl202425-lilleosc-realmadridcf-2024-10-02,2024-25,202425,2024-10-02,Lille OSC,Real Madrid CF,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-sportlisboaebenfica-clubatlticodemadrid-2024-10-02,2024-25,202425,2024-10-02,Sport Lisboa e Benfica,Club Atlético de Madrid,4,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-gnkdinamozagreb-asmonacofc-2024-10-02,2024-25,202425,2024-10-02,GNK Dinamo Zagreb,AS Monaco FC,2,2,D,1.0,0.0,H,,League phase / group stage,False
+ucl202425-gironafc-feyenoordrotterdam-2024-10-02,2024-25,202425,2024-10-02,Girona FC,Feyenoord Rotterdam,2,3,A,1.0,2.0,A,,League phase / group stage,False
+ucl202425-fkshakhtardonetsk-atalantabc-2024-10-02,2024-25,202425,2024-10-02,FK Shakhtar Donetsk,Atalanta BC,0,3,A,0.0,2.0,A,,League phase / group stage,False
+ucl202425-astonvillafc-fcbayernmnchen-2024-10-02,2024-25,202425,2024-10-02,Aston Villa FC,FC Bayern München,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-sksturmgraz-clubbruggekv-2024-10-02,2024-25,202425,2024-10-02,SK Sturm Graz,Club Brugge KV,0,1,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-liverpoolfc-bolognafc1909-2024-10-02,2024-25,202425,2024-10-02,Liverpool FC,Bologna FC 1909,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-rbleipzig-juventusfc-2024-10-02,2024-25,202425,2024-10-02,RB Leipzig,Juventus FC,2,3,A,1.0,0.0,H,,League phase / group stage,False
+ucl202223-bayernmnchen-viktoriaplze-2024-10-04,2022-23,202223,2024-10-04,Bayern München,Viktoria Plzeň,5,0,H,3.0,0.0,H,,League phase / group stage,False
+ucl202223-inter-fcbarcelona-2024-10-04,2022-23,202223,2024-10-04,Inter,FC Barcelona,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202223-viktoriaplze-bayernmnchen-2024-10-12,2022-23,202223,2024-10-12,Viktoria Plzeň,Bayern München,2,4,A,0.0,4.0,A,,League phase / group stage,False
+ucl202223-fcbarcelona-inter-2024-10-12,2022-23,202223,2024-10-12,FC Barcelona,Inter,3,3,D,1.0,0.0,H,,League phase / group stage,False
+ucl202122-shakhtardonetsk-realmadrid-2024-10-19,2021-22,202122,2024-10-19,Shakhtar Donetsk,Real Madrid,0,5,A,0.0,1.0,A,,League phase / group stage,False
+ucl202122-inter-fcsheriff-2024-10-19,2021-22,202122,2024-10-19,Inter,FC Sheriff,3,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-juventusfc-vfbstuttgart-2024-10-22,2024-25,202425,2024-10-22,Juventus FC,VfB Stuttgart,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202425-arsenalfc-fkshakhtardonetsk-2024-10-22,2024-25,202425,2024-10-22,Arsenal FC,FK Shakhtar Donetsk,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-realmadridcf-borussiadortmund-2024-10-22,2024-25,202425,2024-10-22,Real Madrid CF,Borussia Dortmund,5,2,H,0.0,2.0,A,,League phase / group stage,False
+ucl202425-parissaintgermainfc-psv-2024-10-22,2024-25,202425,2024-10-22,Paris Saint-Germain FC,PSV,1,1,D,0.0,1.0,A,,League phase / group stage,False
+ucl202425-gironafc-kslovanbratislava-2024-10-22,2024-25,202425,2024-10-22,Girona FC,ŠK Slovan Bratislava,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-astonvillafc-bolognafc1909-2024-10-22,2024-25,202425,2024-10-22,Aston Villa FC,Bologna FC 1909,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-acmilan-clubbruggekv-2024-10-22,2024-25,202425,2024-10-22,AC Milan,Club Brugge KV,3,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-asmonacofc-fkcrvenazvezda-2024-10-22,2024-25,202425,2024-10-22,AS Monaco FC,FK Crvena Zvezda,5,1,H,2.0,1.0,H,,League phase / group stage,False
+ucl202425-sksturmgraz-sportingclubedeportugal-2024-10-22,2024-25,202425,2024-10-22,SK Sturm Graz,Sporting Clube de Portugal,0,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-fcredbullsalzburg-gnkdinamozagreb-2024-10-23,2024-25,202425,2024-10-23,FC Red Bull Salzburg,GNK Dinamo Zagreb,0,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202425-stadebrestois29-bayer04leverkusen-2024-10-23,2024-25,202425,2024-10-23,Stade Brestois 29,Bayer 04 Leverkusen,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202425-atalantabc-celticfc-2024-10-23,2024-25,202425,2024-10-23,Atalanta BC,Celtic FC,0,0,D,,,,,League phase / group stage,False
+ucl202425-bscyoungboys-fcinternazionalemilano-2024-10-23,2024-25,202425,2024-10-23,BSC Young Boys,FC Internazionale Milano,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202425-fcbarcelona-fcbayernmnchen-2024-10-23,2024-25,202425,2024-10-23,FC Barcelona,FC Bayern München,4,1,H,3.0,1.0,H,,League phase / group stage,False
+ucl202425-manchestercityfc-acspartapraha-2024-10-23,2024-25,202425,2024-10-23,Manchester City FC,AC Sparta Praha,5,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-rbleipzig-liverpoolfc-2024-10-23,2024-25,202425,2024-10-23,RB Leipzig,Liverpool FC,0,1,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-clubatlticodemadrid-lilleosc-2024-10-23,2024-25,202425,2024-10-23,Club Atlético de Madrid,Lille OSC,1,3,A,1.0,0.0,H,,League phase / group stage,False
+ucl202425-sportlisboaebenfica-feyenoordrotterdam-2024-10-23,2024-25,202425,2024-10-23,Sport Lisboa e Benfica,Feyenoord Rotterdam,1,3,A,0.0,2.0,A,,League phase / group stage,False
+ucl202223-fcbarcelona-bayernmnchen-2024-10-26,2022-23,202223,2024-10-26,FC Barcelona,Bayern München,0,3,A,0.0,2.0,A,,League phase / group stage,False
+ucl202223-inter-viktoriaplze-2024-10-26,2022-23,202223,2024-10-26,Inter,Viktoria Plzeň,4,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202223-viktoriaplze-fcbarcelona-2024-11-01,2022-23,202223,2024-11-01,Viktoria Plzeň,FC Barcelona,2,4,A,0.0,2.0,A,,League phase / group stage,False
+ucl202223-bayernmnchen-inter-2024-11-01,2022-23,202223,2024-11-01,Bayern München,Inter,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-realmadrid-shakhtardonetsk-2024-11-03,2021-22,202122,2024-11-03,Real Madrid,Shakhtar Donetsk,2,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202122-fcsheriff-inter-2024-11-03,2021-22,202122,2024-11-03,FC Sheriff,Inter,1,3,A,0.0,0.0,D,,League phase / group stage,False
+ucl202425-realmadridcf-acmilan-2024-11-05,2024-25,202425,2024-11-05,Real Madrid CF,AC Milan,1,3,A,1.0,2.0,A,,League phase / group stage,False
+ucl202425-lilleosc-juventusfc-2024-11-05,2024-25,202425,2024-11-05,Lille OSC,Juventus FC,1,1,D,1.0,0.0,H,,League phase / group stage,False
+ucl202425-borussiadortmund-sksturmgraz-2024-11-05,2024-25,202425,2024-11-05,Borussia Dortmund,SK Sturm Graz,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-liverpoolfc-bayer04leverkusen-2024-11-05,2024-25,202425,2024-11-05,Liverpool FC,Bayer 04 Leverkusen,4,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-celticfc-rbleipzig-2024-11-05,2024-25,202425,2024-11-05,Celtic FC,RB Leipzig,3,1,H,2.0,1.0,H,,League phase / group stage,False
+ucl202425-bolognafc1909-asmonacofc-2024-11-05,2024-25,202425,2024-11-05,Bologna FC 1909,AS Monaco FC,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202425-sportingclubedeportugal-manchestercityfc-2024-11-05,2024-25,202425,2024-11-05,Sporting Clube de Portugal,Manchester City FC,4,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202425-psv-gironafc-2024-11-05,2024-25,202425,2024-11-05,PSV,Girona FC,4,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202425-kslovanbratislava-gnkdinamozagreb-2024-11-05,2024-25,202425,2024-11-05,ŠK Slovan Bratislava,GNK Dinamo Zagreb,1,4,A,1.0,2.0,A,,League phase / group stage,False
+ucl202425-fcbayernmnchen-sportlisboaebenfica-2024-11-06,2024-25,202425,2024-11-06,FC Bayern München,Sport Lisboa e Benfica,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-fcinternazionalemilano-arsenalfc-2024-11-06,2024-25,202425,2024-11-06,FC Internazionale Milano,Arsenal FC,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-parissaintgermainfc-clubatlticodemadrid-2024-11-06,2024-25,202425,2024-11-06,Paris Saint-Germain FC,Club Atlético de Madrid,1,2,A,1.0,1.0,D,,League phase / group stage,False
+ucl202425-vfbstuttgart-atalantabc-2024-11-06,2024-25,202425,2024-11-06,VfB Stuttgart,Atalanta BC,0,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202425-fkcrvenazvezda-fcbarcelona-2024-11-06,2024-25,202425,2024-11-06,FK Crvena Zvezda,FC Barcelona,2,5,A,1.0,2.0,A,,League phase / group stage,False
+ucl202425-fkshakhtardonetsk-bscyoungboys-2024-11-06,2024-25,202425,2024-11-06,FK Shakhtar Donetsk,BSC Young Boys,2,1,H,2.0,1.0,H,,League phase / group stage,False
+ucl202425-clubbruggekv-astonvillafc-2024-11-06,2024-25,202425,2024-11-06,Club Brugge KV,Aston Villa FC,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-acspartapraha-stadebrestois29-2024-11-06,2024-25,202425,2024-11-06,AC Sparta Praha,Stade Brestois 29,1,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-feyenoordrotterdam-fcredbullsalzburg-2024-11-06,2024-25,202425,2024-11-06,Feyenoord Rotterdam,FC Red Bull Salzburg,1,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202122-inter-shakhtardonetsk-2024-11-24,2021-22,202122,2024-11-24,Inter,Shakhtar Donetsk,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-fcsheriff-realmadrid-2024-11-24,2021-22,202122,2024-11-24,FC Sheriff,Real Madrid,0,3,A,0.0,2.0,A,,League phase / group stage,False
+ucl202425-acspartapraha-clubatlticodemadrid-2024-11-26,2024-25,202425,2024-11-26,AC Sparta Praha,Club Atlético de Madrid,0,6,A,0.0,2.0,A,,League phase / group stage,False
+ucl202425-sportingclubedeportugal-arsenalfc-2024-11-26,2024-25,202425,2024-11-26,Sporting Clube de Portugal,Arsenal FC,1,5,A,0.0,3.0,A,,League phase / group stage,False
+ucl202425-bscyoungboys-atalantabc-2024-11-26,2024-25,202425,2024-11-26,BSC Young Boys,Atalanta BC,1,6,A,1.0,4.0,A,,League phase / group stage,False
+ucl202425-fcbayernmnchen-parissaintgermainfc-2024-11-26,2024-25,202425,2024-11-26,FC Bayern München,Paris Saint-Germain FC,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-fcbarcelona-stadebrestois29-2024-11-26,2024-25,202425,2024-11-26,FC Barcelona,Stade Brestois 29,3,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-fcinternazionalemilano-rbleipzig-2024-11-26,2024-25,202425,2024-11-26,FC Internazionale Milano,RB Leipzig,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-manchestercityfc-feyenoordrotterdam-2024-11-26,2024-25,202425,2024-11-26,Manchester City FC,Feyenoord Rotterdam,3,3,D,1.0,0.0,H,,League phase / group stage,False
+ucl202425-bayer04leverkusen-fcredbullsalzburg-2024-11-26,2024-25,202425,2024-11-26,Bayer 04 Leverkusen,FC Red Bull Salzburg,5,0,H,3.0,0.0,H,,League phase / group stage,False
+ucl202425-kslovanbratislava-acmilan-2024-11-26,2024-25,202425,2024-11-26,ŠK Slovan Bratislava,AC Milan,2,3,A,1.0,1.0,D,,League phase / group stage,False
+ucl202425-psv-fkshakhtardonetsk-2024-11-27,2024-25,202425,2024-11-27,PSV,FK Shakhtar Donetsk,3,2,H,0.0,2.0,A,,League phase / group stage,False
+ucl202425-gnkdinamozagreb-borussiadortmund-2024-11-27,2024-25,202425,2024-11-27,GNK Dinamo Zagreb,Borussia Dortmund,0,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-celticfc-clubbruggekv-2024-11-27,2024-25,202425,2024-11-27,Celtic FC,Club Brugge KV,1,1,D,0.0,1.0,A,,League phase / group stage,False
+ucl202425-liverpoolfc-realmadridcf-2024-11-27,2024-25,202425,2024-11-27,Liverpool FC,Real Madrid CF,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-astonvillafc-juventusfc-2024-11-27,2024-25,202425,2024-11-27,Aston Villa FC,Juventus FC,0,0,D,,,,,League phase / group stage,False
+ucl202425-asmonacofc-sportlisboaebenfica-2024-11-27,2024-25,202425,2024-11-27,AS Monaco FC,Sport Lisboa e Benfica,2,3,A,1.0,0.0,H,,League phase / group stage,False
+ucl202425-fkcrvenazvezda-vfbstuttgart-2024-11-27,2024-25,202425,2024-11-27,FK Crvena Zvezda,VfB Stuttgart,5,1,H,2.0,1.0,H,,League phase / group stage,False
+ucl202425-bolognafc1909-lilleosc-2024-11-27,2024-25,202425,2024-11-27,Bologna FC 1909,Lille OSC,1,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-sksturmgraz-gironafc-2024-11-27,2024-25,202425,2024-11-27,SK Sturm Graz,Girona FC,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-realmadrid-inter-2024-12-07,2021-22,202122,2024-12-07,Real Madrid,Inter,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-shakhtardonetsk-fcsheriff-2024-12-07,2021-22,202122,2024-12-07,Shakhtar Donetsk,FC Sheriff,1,1,D,1.0,0.0,H,,League phase / group stage,False
+ucl202425-fcredbullsalzburg-parissaintgermainfc-2024-12-10,2024-25,202425,2024-12-10,FC Red Bull Salzburg,Paris Saint-Germain FC,0,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-fkshakhtardonetsk-fcbayernmnchen-2024-12-10,2024-25,202425,2024-12-10,FK Shakhtar Donetsk,FC Bayern München,1,5,A,1.0,2.0,A,,League phase / group stage,False
+ucl202425-bayer04leverkusen-fcinternazionalemilano-2024-12-10,2024-25,202425,2024-12-10,Bayer 04 Leverkusen,FC Internazionale Milano,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-atalantabc-realmadridcf-2024-12-10,2024-25,202425,2024-12-10,Atalanta BC,Real Madrid CF,2,3,A,1.0,1.0,D,,League phase / group stage,False
+ucl202425-rbleipzig-astonvillafc-2024-12-10,2024-25,202425,2024-12-10,RB Leipzig,Aston Villa FC,2,3,A,1.0,1.0,D,,League phase / group stage,False
+ucl202425-stadebrestois29-psv-2024-12-10,2024-25,202425,2024-12-10,Stade Brestois 29,PSV,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-gnkdinamozagreb-celticfc-2024-12-10,2024-25,202425,2024-12-10,GNK Dinamo Zagreb,Celtic FC,0,0,D,,,,,League phase / group stage,False
+ucl202425-gironafc-liverpoolfc-2024-12-10,2024-25,202425,2024-12-10,Girona FC,Liverpool FC,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202425-clubbruggekv-sportingclubedeportugal-2024-12-10,2024-25,202425,2024-12-10,Club Brugge KV,Sporting Clube de Portugal,2,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202425-feyenoordrotterdam-acspartapraha-2024-12-11,2024-25,202425,2024-12-11,Feyenoord Rotterdam,AC Sparta Praha,4,2,H,3.0,1.0,H,,League phase / group stage,False
+ucl202425-juventusfc-manchestercityfc-2024-12-11,2024-25,202425,2024-12-11,Juventus FC,Manchester City FC,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-lilleosc-sksturmgraz-2024-12-11,2024-25,202425,2024-12-11,Lille OSC,SK Sturm Graz,3,2,H,2.0,1.0,H,,League phase / group stage,False
+ucl202425-sportlisboaebenfica-bolognafc1909-2024-12-11,2024-25,202425,2024-12-11,Sport Lisboa e Benfica,Bologna FC 1909,0,0,D,,,,,League phase / group stage,False
+ucl202425-acmilan-fkcrvenazvezda-2024-12-11,2024-25,202425,2024-12-11,AC Milan,FK Crvena Zvezda,2,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-borussiadortmund-fcbarcelona-2024-12-11,2024-25,202425,2024-12-11,Borussia Dortmund,FC Barcelona,2,3,A,0.0,0.0,D,,League phase / group stage,False
+ucl202425-vfbstuttgart-bscyoungboys-2024-12-11,2024-25,202425,2024-12-11,VfB Stuttgart,BSC Young Boys,5,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202425-clubatlticodemadrid-kslovanbratislava-2024-12-11,2024-25,202425,2024-12-11,Club Atlético de Madrid,ŠK Slovan Bratislava,3,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202425-arsenalfc-asmonacofc-2024-12-11,2024-25,202425,2024-12-11,Arsenal FC,AS Monaco FC,3,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-fkcrvenazvezda-psv-2025-01-21,2024-25,202425,2025-01-21,FK Crvena Zvezda,PSV,2,3,A,0.0,3.0,A,,League phase / group stage,False
+ucl202425-clubbruggekv-juventusfc-2025-01-21,2024-25,202425,2025-01-21,Club Brugge KV,Juventus FC,0,0,D,,,,,League phase / group stage,False
+ucl202425-clubatlticodemadrid-bayer04leverkusen-2025-01-21,2024-25,202425,2025-01-21,Club Atlético de Madrid,Bayer 04 Leverkusen,2,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202425-sportlisboaebenfica-fcbarcelona-2025-01-21,2024-25,202425,2025-01-21,Sport Lisboa e Benfica,FC Barcelona,4,5,A,3.0,1.0,H,,League phase / group stage,False
+ucl202425-kslovanbratislava-vfbstuttgart-2025-01-21,2024-25,202425,2025-01-21,ŠK Slovan Bratislava,VfB Stuttgart,1,3,A,0.0,2.0,A,,League phase / group stage,False
+ucl202425-liverpoolfc-lilleosc-2025-01-21,2024-25,202425,2025-01-21,Liverpool FC,Lille OSC,2,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-asmonacofc-astonvillafc-2025-01-21,2024-25,202425,2025-01-21,AS Monaco FC,Aston Villa FC,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-atalantabc-sksturmgraz-2025-01-21,2024-25,202425,2025-01-21,Atalanta BC,SK Sturm Graz,5,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-bolognafc1909-borussiadortmund-2025-01-21,2024-25,202425,2025-01-21,Bologna FC 1909,Borussia Dortmund,2,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202425-rbleipzig-sportingclubedeportugal-2025-01-22,2024-25,202425,2025-01-22,RB Leipzig,Sporting Clube de Portugal,2,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-celticfc-bscyoungboys-2025-01-22,2024-25,202425,2025-01-22,Celtic FC,BSC Young Boys,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-arsenalfc-gnkdinamozagreb-2025-01-22,2024-25,202425,2025-01-22,Arsenal FC,GNK Dinamo Zagreb,3,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-feyenoordrotterdam-fcbayernmnchen-2025-01-22,2024-25,202425,2025-01-22,Feyenoord Rotterdam,FC Bayern München,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202425-realmadridcf-fcredbullsalzburg-2025-01-22,2024-25,202425,2025-01-22,Real Madrid CF,FC Red Bull Salzburg,5,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202425-parissaintgermainfc-manchestercityfc-2025-01-22,2024-25,202425,2025-01-22,Paris Saint-Germain FC,Manchester City FC,4,2,H,0.0,0.0,D,,League phase / group stage,False
+ucl202425-acspartapraha-fcinternazionalemilano-2025-01-22,2024-25,202425,2025-01-22,AC Sparta Praha,FC Internazionale Milano,0,1,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-fkshakhtardonetsk-stadebrestois29-2025-01-22,2024-25,202425,2025-01-22,FK Shakhtar Donetsk,Stade Brestois 29,2,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202425-acmilan-gironafc-2025-01-22,2024-25,202425,2025-01-22,AC Milan,Girona FC,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-bayer04leverkusen-acspartapraha-2025-01-29,2024-25,202425,2025-01-29,Bayer 04 Leverkusen,AC Sparta Praha,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-fcredbullsalzburg-clubatlticodemadrid-2025-01-29,2024-25,202425,2025-01-29,FC Red Bull Salzburg,Club Atlético de Madrid,1,4,A,0.0,3.0,A,,League phase / group stage,False
+ucl202425-psv-liverpoolfc-2025-01-29,2024-25,202425,2025-01-29,PSV,Liverpool FC,3,2,H,3.0,2.0,H,,League phase / group stage,False
+ucl202425-lilleosc-feyenoordrotterdam-2025-01-29,2024-25,202425,2025-01-29,Lille OSC,Feyenoord Rotterdam,6,1,H,2.0,1.0,H,,League phase / group stage,False
+ucl202425-gnkdinamozagreb-acmilan-2025-01-29,2024-25,202425,2025-01-29,GNK Dinamo Zagreb,AC Milan,2,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-juventusfc-sportlisboaebenfica-2025-01-29,2024-25,202425,2025-01-29,Juventus FC,Sport Lisboa e Benfica,0,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-manchestercityfc-clubbruggekv-2025-01-29,2024-25,202425,2025-01-29,Manchester City FC,Club Brugge KV,3,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202425-sksturmgraz-rbleipzig-2025-01-29,2024-25,202425,2025-01-29,SK Sturm Graz,RB Leipzig,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-fcbarcelona-atalantabc-2025-01-29,2024-25,202425,2025-01-29,FC Barcelona,Atalanta BC,2,2,D,0.0,0.0,D,,League phase / group stage,False
+ucl202425-borussiadortmund-fkshakhtardonetsk-2025-01-29,2024-25,202425,2025-01-29,Borussia Dortmund,FK Shakhtar Donetsk,3,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202425-fcbayernmnchen-kslovanbratislava-2025-01-29,2024-25,202425,2025-01-29,FC Bayern München,ŠK Slovan Bratislava,3,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202425-vfbstuttgart-parissaintgermainfc-2025-01-29,2024-25,202425,2025-01-29,VfB Stuttgart,Paris Saint-Germain FC,1,4,A,0.0,3.0,A,,League phase / group stage,False
+ucl202425-gironafc-arsenalfc-2025-01-29,2024-25,202425,2025-01-29,Girona FC,Arsenal FC,1,2,A,1.0,2.0,A,,League phase / group stage,False
+ucl202425-bscyoungboys-fkcrvenazvezda-2025-01-29,2024-25,202425,2025-01-29,BSC Young Boys,FK Crvena Zvezda,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202425-sportingclubedeportugal-bolognafc1909-2025-01-29,2024-25,202425,2025-01-29,Sporting Clube de Portugal,Bologna FC 1909,1,1,D,0.0,1.0,A,,League phase / group stage,False
+ucl202425-fcinternazionalemilano-asmonacofc-2025-01-29,2024-25,202425,2025-01-29,FC Internazionale Milano,AS Monaco FC,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202425-stadebrestois29-realmadridcf-2025-01-29,2024-25,202425,2025-01-29,Stade Brestois 29,Real Madrid CF,0,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202425-astonvillafc-celticfc-2025-01-29,2024-25,202425,2025-01-29,Aston Villa FC,Celtic FC,4,2,H,2.0,2.0,D,,League phase / group stage,False
+ucl202425-stadebrestois29-parissaintgermainfc-2025-02-11,2024-25,202425,2025-02-11,Stade Brestois 29,Paris Saint-Germain FC,0,3,A,0.0,2.0,A,,Play-off round,False
+ucl202425-manchestercityfc-realmadridcf-2025-02-11,2024-25,202425,2025-02-11,Manchester City FC,Real Madrid CF,2,3,A,1.0,0.0,H,,Play-off round,False
+ucl202425-juventusfc-psv-2025-02-11,2024-25,202425,2025-02-11,Juventus FC,PSV,2,1,H,1.0,0.0,H,,Play-off round,False
+ucl202425-sportingclubedeportugal-borussiadortmund-2025-02-11,2024-25,202425,2025-02-11,Sporting Clube de Portugal,Borussia Dortmund,0,3,A,0.0,0.0,D,,Play-off round,False
+ucl202425-clubbruggekv-atalantabc-2025-02-12,2024-25,202425,2025-02-12,Club Brugge KV,Atalanta BC,2,1,H,1.0,1.0,D,,Play-off round,False
+ucl202425-asmonacofc-sportlisboaebenfica-2025-02-12,2024-25,202425,2025-02-12,AS Monaco FC,Sport Lisboa e Benfica,0,1,A,0.0,0.0,D,,Play-off round,False
+ucl202425-celticfc-fcbayernmnchen-2025-02-12,2024-25,202425,2025-02-12,Celtic FC,FC Bayern München,1,2,A,0.0,1.0,A,,Play-off round,False
+ucl202425-feyenoordrotterdam-acmilan-2025-02-12,2024-25,202425,2025-02-12,Feyenoord Rotterdam,AC Milan,1,0,H,1.0,0.0,H,,Play-off round,False
+ucl202425-sportlisboaebenfica-asmonacofc-2025-02-18,2024-25,202425,2025-02-18,Sport Lisboa e Benfica,AS Monaco FC,3,3,D,1.0,1.0,D,,Play-off round,False
+ucl202425-atalantabc-clubbruggekv-2025-02-18,2024-25,202425,2025-02-18,Atalanta BC,Club Brugge KV,1,3,A,0.0,3.0,A,,Play-off round,False
+ucl202425-fcbayernmnchen-celticfc-2025-02-18,2024-25,202425,2025-02-18,FC Bayern München,Celtic FC,1,1,D,0.0,0.0,D,,Play-off round,False
+ucl202425-acmilan-feyenoordrotterdam-2025-02-18,2024-25,202425,2025-02-18,AC Milan,Feyenoord Rotterdam,1,1,D,1.0,0.0,H,,Play-off round,False
+ucl202425-borussiadortmund-sportingclubedeportugal-2025-02-19,2024-25,202425,2025-02-19,Borussia Dortmund,Sporting Clube de Portugal,0,0,D,,,,,Play-off round,False
+ucl202425-parissaintgermainfc-stadebrestois29-2025-02-19,2024-25,202425,2025-02-19,Paris Saint-Germain FC,Stade Brestois 29,7,0,H,2.0,0.0,H,,Play-off round,False
+ucl202425-realmadridcf-manchestercityfc-2025-02-19,2024-25,202425,2025-02-19,Real Madrid CF,Manchester City FC,3,1,H,2.0,0.0,H,,Play-off round,False
+ucl202425-psv-juventusfc-2025-02-19,2024-25,202425,2025-02-19,PSV,Juventus FC,3,1,H,0.0,0.0,D,,Play-off round,False
+ucl202425-realmadridcf-clubatlticodemadrid-2025-03-04,2024-25,202425,2025-03-04,Real Madrid CF,Club Atlético de Madrid,2,1,H,1.0,1.0,D,,Round of 16,False
+ucl202425-clubbruggekv-astonvillafc-2025-03-04,2024-25,202425,2025-03-04,Club Brugge KV,Aston Villa FC,1,3,A,1.0,1.0,D,,Round of 16,False
+ucl202425-borussiadortmund-lilleosc-2025-03-04,2024-25,202425,2025-03-04,Borussia Dortmund,Lille OSC,1,1,D,1.0,0.0,H,,Round of 16,False
+ucl202425-psv-arsenalfc-2025-03-04,2024-25,202425,2025-03-04,PSV,Arsenal FC,1,7,A,1.0,3.0,A,,Round of 16,False
+ucl202425-feyenoordrotterdam-fcinternazionalemilano-2025-03-05,2024-25,202425,2025-03-05,Feyenoord Rotterdam,FC Internazionale Milano,0,2,A,0.0,1.0,A,,Round of 16,False
+ucl202425-fcbayernmnchen-bayer04leverkusen-2025-03-05,2024-25,202425,2025-03-05,FC Bayern München,Bayer 04 Leverkusen,3,0,H,1.0,0.0,H,,Round of 16,False
+ucl202425-parissaintgermainfc-liverpoolfc-2025-03-05,2024-25,202425,2025-03-05,Paris Saint-Germain FC,Liverpool FC,0,1,A,0.0,0.0,D,,Round of 16,False
+ucl202425-sportlisboaebenfica-fcbarcelona-2025-03-05,2024-25,202425,2025-03-05,Sport Lisboa e Benfica,FC Barcelona,0,1,A,0.0,0.0,D,,Round of 16,False
+ucl202425-fcbarcelona-sportlisboaebenfica-2025-03-11,2024-25,202425,2025-03-11,FC Barcelona,Sport Lisboa e Benfica,3,1,H,3.0,1.0,H,,Round of 16,False
+ucl202425-liverpoolfc-parissaintgermainfc-2025-03-11,2024-25,202425,2025-03-11,Liverpool FC,Paris Saint-Germain FC,0,1,A,0.0,1.0,A,,Round of 16,False
+ucl202425-fcinternazionalemilano-feyenoordrotterdam-2025-03-11,2024-25,202425,2025-03-11,FC Internazionale Milano,Feyenoord Rotterdam,2,1,H,1.0,1.0,D,,Round of 16,False
+ucl202425-bayer04leverkusen-fcbayernmnchen-2025-03-11,2024-25,202425,2025-03-11,Bayer 04 Leverkusen,FC Bayern München,0,2,A,0.0,0.0,D,,Round of 16,False
+ucl202425-lilleosc-borussiadortmund-2025-03-12,2024-25,202425,2025-03-12,Lille OSC,Borussia Dortmund,1,2,A,1.0,0.0,H,,Round of 16,False
+ucl202425-astonvillafc-clubbruggekv-2025-03-12,2024-25,202425,2025-03-12,Aston Villa FC,Club Brugge KV,3,0,H,0.0,0.0,D,,Round of 16,False
+ucl202425-clubatlticodemadrid-realmadridcf-2025-03-12,2024-25,202425,2025-03-12,Club Atlético de Madrid,Real Madrid CF,1,0,H,1.0,0.0,H,,Round of 16,False
+ucl202425-arsenalfc-psv-2025-03-12,2024-25,202425,2025-03-12,Arsenal FC,PSV,2,2,D,2.0,1.0,H,,Round of 16,False
+ucl202425-arsenalfc-realmadridcf-2025-04-08,2024-25,202425,2025-04-08,Arsenal FC,Real Madrid CF,3,0,H,0.0,0.0,D,,Quarter-final,False
+ucl202425-fcbayernmnchen-fcinternazionalemilano-2025-04-08,2024-25,202425,2025-04-08,FC Bayern München,FC Internazionale Milano,1,2,A,0.0,1.0,A,,Quarter-final,False
+ucl202425-fcbarcelona-borussiadortmund-2025-04-09,2024-25,202425,2025-04-09,FC Barcelona,Borussia Dortmund,4,0,H,1.0,0.0,H,,Quarter-final,False
+ucl202425-parissaintgermainfc-astonvillafc-2025-04-09,2024-25,202425,2025-04-09,Paris Saint-Germain FC,Aston Villa FC,3,1,H,1.0,1.0,D,,Quarter-final,False
+ucl202425-astonvillafc-parissaintgermainfc-2025-04-15,2024-25,202425,2025-04-15,Aston Villa FC,Paris Saint-Germain FC,3,2,H,1.0,2.0,A,,Quarter-final,False
+ucl202425-borussiadortmund-fcbarcelona-2025-04-15,2024-25,202425,2025-04-15,Borussia Dortmund,FC Barcelona,3,1,H,1.0,0.0,H,,Quarter-final,False
+ucl202425-realmadridcf-arsenalfc-2025-04-16,2024-25,202425,2025-04-16,Real Madrid CF,Arsenal FC,1,2,A,0.0,0.0,D,,Quarter-final,False
+ucl202425-fcinternazionalemilano-fcbayernmnchen-2025-04-16,2024-25,202425,2025-04-16,FC Internazionale Milano,FC Bayern München,2,2,D,0.0,0.0,D,,Quarter-final,False
+ucl202425-arsenalfc-parissaintgermainfc-2025-04-29,2024-25,202425,2025-04-29,Arsenal FC,Paris Saint-Germain FC,0,1,A,0.0,1.0,A,,Semi-final,False
+ucl202425-fcbarcelona-fcinternazionalemilano-2025-04-30,2024-25,202425,2025-04-30,FC Barcelona,FC Internazionale Milano,3,3,D,2.0,2.0,D,,Semi-final,False
+ucl202425-fcinternazionalemilano-fcbarcelona-2025-05-06,2024-25,202425,2025-05-06,FC Internazionale Milano,FC Barcelona,4,3,H,2.0,0.0,H,,Semi-final,False
+ucl202425-parissaintgermainfc-arsenalfc-2025-05-07,2024-25,202425,2025-05-07,Paris Saint-Germain FC,Arsenal FC,2,1,H,1.0,0.0,H,,Semi-final,False
+ucl202425-parissaintgermainfc-fcinternazionalemilano-2025-05-31,2024-25,202425,2025-05-31,Paris Saint-Germain FC,FC Internazionale Milano,5,0,H,2.0,0.0,H,,Final,True
+ucl202223-tottenhamhotspur-olympiquemarseille-2025-09-07,2022-23,202223,2025-09-07,Tottenham Hotspur,Olympique Marseille,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202223-eintrachtfrankfurt-sportingcp-2025-09-07,2022-23,202223,2025-09-07,Eintracht Frankfurt,Sporting CP,0,3,A,0.0,0.0,D,,League phase / group stage,False
+ucl202223-olympiquemarseille-eintrachtfrankfurt-2025-09-13,2022-23,202223,2025-09-13,Olympique Marseille,Eintracht Frankfurt,0,1,A,0.0,1.0,A,,League phase / group stage,False
+ucl202223-sportingcp-tottenhamhotspur-2025-09-13,2022-23,202223,2025-09-13,Sporting CP,Tottenham Hotspur,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-fcbarcelona-bayernmnchen-2025-09-14,2021-22,202122,2025-09-14,FC Barcelona,Bayern München,0,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202122-dinamokiev-slbenfica-2025-09-14,2021-22,202122,2025-09-14,Dinamo Kiev,SL Benfica,0,0,D,,,,,League phase / group stage,False
+ucl202526-athleticclub-arsenalfc-2025-09-16,2025-26,202526,2025-09-16,Athletic Club,Arsenal FC,0,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-psv-royaleunionsaintgilloise-2025-09-16,2025-26,202526,2025-09-16,PSV,Royale Union Saint-Gilloise,1,3,A,0.0,2.0,A,,League phase / group stage,False
+ucl202526-juventusfc-borussiadortmund-2025-09-16,2025-26,202526,2025-09-16,Juventus FC,Borussia Dortmund,4,4,D,0.0,0.0,D,,League phase / group stage,False
+ucl202526-sportlisboaebenfica-qarabaadamfk-2025-09-16,2025-26,202526,2025-09-16,Sport Lisboa e Benfica,Qarabağ Ağdam FK,2,3,A,2.0,1.0,H,,League phase / group stage,False
+ucl202526-tottenhamhotspurfc-villarrealcf-2025-09-16,2025-26,202526,2025-09-16,Tottenham Hotspur FC,Villarreal CF,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-realmadridcf-olympiquedemarseille-2025-09-16,2025-26,202526,2025-09-16,Real Madrid CF,Olympique de Marseille,2,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202526-skslaviapraha-fkbodglimt-2025-09-17,2025-26,202526,2025-09-17,SK Slavia Praha,FK Bodø/Glimt,2,2,D,1.0,0.0,H,,League phase / group stage,False
+ucl202526-paeolympiakossfp-paphosfc-2025-09-17,2025-26,202526,2025-09-17,PAE Olympiakos SFP,Paphos FC,0,0,D,,,,,League phase / group stage,False
+ucl202526-afcajax-fcinternazionalemilano-2025-09-17,2025-26,202526,2025-09-17,AFC Ajax,FC Internazionale Milano,0,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202526-parissaintgermainfc-atalantabc-2025-09-17,2025-26,202526,2025-09-17,Paris Saint-Germain FC,Atalanta BC,4,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-fcbayernmnchen-chelseafc-2025-09-17,2025-26,202526,2025-09-17,FC Bayern München,Chelsea FC,3,1,H,2.0,1.0,H,,League phase / group stage,False
+ucl202526-liverpoolfc-clubatlticodemadrid-2025-09-17,2025-26,202526,2025-09-17,Liverpool FC,Club Atlético de Madrid,3,2,H,2.0,1.0,H,,League phase / group stage,False
+ucl202526-fckbenhavn-bayer04leverkusen-2025-09-18,2025-26,202526,2025-09-18,FC København,Bayer 04 Leverkusen,2,2,D,1.0,0.0,H,,League phase / group stage,False
+ucl202526-clubbruggekv-asmonacofc-2025-09-18,2025-26,202526,2025-09-18,Club Brugge KV,AS Monaco FC,4,1,H,3.0,0.0,H,,League phase / group stage,False
+ucl202526-newcastleunitedfc-fcbarcelona-2025-09-18,2025-26,202526,2025-09-18,Newcastle United FC,FC Barcelona,1,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-manchestercityfc-sscnapoli-2025-09-18,2025-26,202526,2025-09-18,Manchester City FC,SSC Napoli,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-eintrachtfrankfurt-galatasaraysk-2025-09-18,2025-26,202526,2025-09-18,Eintracht Frankfurt,Galatasaray SK,5,1,H,3.0,1.0,H,,League phase / group stage,False
+ucl202526-sportingclubedeportugal-fkkairat-2025-09-18,2025-26,202526,2025-09-18,Sporting Clube de Portugal,FK Kairat,4,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-slbenfica-fcbarcelona-2025-09-29,2021-22,202122,2025-09-29,SL Benfica,FC Barcelona,3,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-bayernmnchen-dinamokiev-2025-09-29,2021-22,202122,2025-09-29,Bayern München,Dinamo Kiev,5,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-fkbodglimt-tottenhamhotspurfc-2025-09-30,2025-26,202526,2025-09-30,FK Bodø/Glimt,Tottenham Hotspur FC,2,2,D,0.0,0.0,D,,League phase / group stage,False
+ucl202526-paphosfc-fcbayernmnchen-2025-09-30,2025-26,202526,2025-09-30,Paphos FC,FC Bayern München,1,5,A,1.0,4.0,A,,League phase / group stage,False
+ucl202526-olympiquedemarseille-afcajax-2025-09-30,2025-26,202526,2025-09-30,Olympique de Marseille,AFC Ajax,4,0,H,3.0,0.0,H,,League phase / group stage,False
+ucl202526-clubatlticodemadrid-eintrachtfrankfurt-2025-09-30,2025-26,202526,2025-09-30,Club Atlético de Madrid,Eintracht Frankfurt,5,1,H,3.0,0.0,H,,League phase / group stage,False
+ucl202526-galatasaraysk-liverpoolfc-2025-09-30,2025-26,202526,2025-09-30,Galatasaray SK,Liverpool FC,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-fkkairat-realmadridcf-2025-09-30,2025-26,202526,2025-09-30,FK Kairat,Real Madrid CF,0,5,A,0.0,1.0,A,,League phase / group stage,False
+ucl202526-fcinternazionalemilano-skslaviapraha-2025-09-30,2025-26,202526,2025-09-30,FC Internazionale Milano,SK Slavia Praha,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-atalantabc-clubbruggekv-2025-09-30,2025-26,202526,2025-09-30,Atalanta BC,Club Brugge KV,2,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202526-chelseafc-sportlisboaebenfica-2025-09-30,2025-26,202526,2025-09-30,Chelsea FC,Sport Lisboa e Benfica,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-fcbarcelona-parissaintgermainfc-2025-10-01,2025-26,202526,2025-10-01,FC Barcelona,Paris Saint-Germain FC,1,2,A,1.0,1.0,D,,League phase / group stage,False
+ucl202526-bayer04leverkusen-psv-2025-10-01,2025-26,202526,2025-10-01,Bayer 04 Leverkusen,PSV,1,1,D,0.0,0.0,D,,League phase / group stage,False
+ucl202526-arsenalfc-paeolympiakossfp-2025-10-01,2025-26,202526,2025-10-01,Arsenal FC,PAE Olympiakos SFP,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-villarrealcf-juventusfc-2025-10-01,2025-26,202526,2025-10-01,Villarreal CF,Juventus FC,2,2,D,1.0,0.0,H,,League phase / group stage,False
+ucl202526-borussiadortmund-athleticclub-2025-10-01,2025-26,202526,2025-10-01,Borussia Dortmund,Athletic Club,4,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-sscnapoli-sportingclubedeportugal-2025-10-01,2025-26,202526,2025-10-01,SSC Napoli,Sporting Clube de Portugal,2,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-asmonacofc-manchestercityfc-2025-10-01,2025-26,202526,2025-10-01,AS Monaco FC,Manchester City FC,2,2,D,1.0,2.0,A,,League phase / group stage,False
+ucl202526-royaleunionsaintgilloise-newcastleunitedfc-2025-10-01,2025-26,202526,2025-10-01,Royale Union Saint-Gilloise,Newcastle United FC,0,4,A,0.0,2.0,A,,League phase / group stage,False
+ucl202526-qarabaadamfk-fckbenhavn-2025-10-01,2025-26,202526,2025-10-01,Qarabağ Ağdam FK,FC København,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202223-eintrachtfrankfurt-tottenhamhotspur-2025-10-04,2022-23,202223,2025-10-04,Eintracht Frankfurt,Tottenham Hotspur,0,0,D,,,,,League phase / group stage,False
+ucl202223-olympiquemarseille-sportingcp-2025-10-04,2022-23,202223,2025-10-04,Olympique Marseille,Sporting CP,4,1,H,3.0,1.0,H,,League phase / group stage,False
+ucl202223-sportingcp-olympiquemarseille-2025-10-12,2022-23,202223,2025-10-12,Sporting CP,Olympique Marseille,0,2,A,0.0,2.0,A,,League phase / group stage,False
+ucl202223-tottenhamhotspur-eintrachtfrankfurt-2025-10-12,2022-23,202223,2025-10-12,Tottenham Hotspur,Eintracht Frankfurt,3,2,H,3.0,1.0,H,,League phase / group stage,False
+ucl202122-slbenfica-bayernmnchen-2025-10-20,2021-22,202122,2025-10-20,SL Benfica,Bayern München,0,4,A,0.0,0.0,D,,League phase / group stage,False
+ucl202122-fcbarcelona-dinamokiev-2025-10-20,2021-22,202122,2025-10-20,FC Barcelona,Dinamo Kiev,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-psv-sscnapoli-2025-10-21,2025-26,202526,2025-10-21,PSV,SSC Napoli,6,2,H,2.0,1.0,H,,League phase / group stage,False
+ucl202526-arsenalfc-clubatlticodemadrid-2025-10-21,2025-26,202526,2025-10-21,Arsenal FC,Club Atlético de Madrid,4,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-newcastleunitedfc-sportlisboaebenfica-2025-10-21,2025-26,202526,2025-10-21,Newcastle United FC,Sport Lisboa e Benfica,3,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-bayer04leverkusen-parissaintgermainfc-2025-10-21,2025-26,202526,2025-10-21,Bayer 04 Leverkusen,Paris Saint-Germain FC,2,7,A,1.0,4.0,A,,League phase / group stage,False
+ucl202526-villarrealcf-manchestercityfc-2025-10-21,2025-26,202526,2025-10-21,Villarreal CF,Manchester City FC,0,2,A,0.0,2.0,A,,League phase / group stage,False
+ucl202526-royaleunionsaintgilloise-fcinternazionalemilano-2025-10-21,2025-26,202526,2025-10-21,Royale Union Saint-Gilloise,FC Internazionale Milano,0,4,A,0.0,2.0,A,,League phase / group stage,False
+ucl202526-fkkairat-paphosfc-2025-10-21,2025-26,202526,2025-10-21,FK Kairat,Paphos FC,0,0,D,,,,,League phase / group stage,False
+ucl202526-fcbarcelona-paeolympiakossfp-2025-10-21,2025-26,202526,2025-10-21,FC Barcelona,PAE Olympiakos SFP,6,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-fckbenhavn-borussiadortmund-2025-10-21,2025-26,202526,2025-10-21,FC København,Borussia Dortmund,2,4,A,1.0,1.0,D,,League phase / group stage,False
+ucl202526-atalantabc-skslaviapraha-2025-10-22,2025-26,202526,2025-10-22,Atalanta BC,SK Slavia Praha,0,0,D,,,,,League phase / group stage,False
+ucl202526-galatasaraysk-fkbodglimt-2025-10-22,2025-26,202526,2025-10-22,Galatasaray SK,FK Bodø/Glimt,3,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-athleticclub-qarabaadamfk-2025-10-22,2025-26,202526,2025-10-22,Athletic Club,Qarabağ Ağdam FK,3,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202526-eintrachtfrankfurt-liverpoolfc-2025-10-22,2025-26,202526,2025-10-22,Eintracht Frankfurt,Liverpool FC,1,5,A,1.0,3.0,A,,League phase / group stage,False
+ucl202526-sportingclubedeportugal-olympiquedemarseille-2025-10-22,2025-26,202526,2025-10-22,Sporting Clube de Portugal,Olympique de Marseille,2,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202526-asmonacofc-tottenhamhotspurfc-2025-10-22,2025-26,202526,2025-10-22,AS Monaco FC,Tottenham Hotspur FC,0,0,D,,,,,League phase / group stage,False
+ucl202526-fcbayernmnchen-clubbruggekv-2025-10-22,2025-26,202526,2025-10-22,FC Bayern München,Club Brugge KV,4,0,H,3.0,0.0,H,,League phase / group stage,False
+ucl202526-chelseafc-afcajax-2025-10-22,2025-26,202526,2025-10-22,Chelsea FC,AFC Ajax,5,1,H,4.0,1.0,H,,League phase / group stage,False
+ucl202526-realmadridcf-juventusfc-2025-10-22,2025-26,202526,2025-10-22,Real Madrid CF,Juventus FC,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202223-eintrachtfrankfurt-olympiquemarseille-2025-10-26,2022-23,202223,2025-10-26,Eintracht Frankfurt,Olympique Marseille,2,1,H,2.0,1.0,H,,League phase / group stage,False
+ucl202223-tottenhamhotspur-sportingcp-2025-10-26,2022-23,202223,2025-10-26,Tottenham Hotspur,Sporting CP,1,1,D,0.0,1.0,A,,League phase / group stage,False
+ucl202223-sportingcp-eintrachtfrankfurt-2025-11-01,2022-23,202223,2025-11-01,Sporting CP,Eintracht Frankfurt,1,2,A,1.0,0.0,H,,League phase / group stage,False
+ucl202223-olympiquemarseille-tottenhamhotspur-2025-11-01,2022-23,202223,2025-11-01,Olympique Marseille,Tottenham Hotspur,1,2,A,1.0,0.0,H,,League phase / group stage,False
+ucl202122-dinamokiev-fcbarcelona-2025-11-02,2021-22,202122,2025-11-02,Dinamo Kiev,FC Barcelona,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202122-bayernmnchen-slbenfica-2025-11-02,2021-22,202122,2025-11-02,Bayern München,SL Benfica,5,2,H,2.0,1.0,H,,League phase / group stage,False
+ucl202526-tottenhamhotspurfc-fckbenhavn-2025-11-04,2025-26,202526,2025-11-04,Tottenham Hotspur FC,FC København,4,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-fkbodglimt-asmonacofc-2025-11-04,2025-26,202526,2025-11-04,FK Bodø/Glimt,AS Monaco FC,0,1,A,0.0,1.0,A,,League phase / group stage,False
+ucl202526-juventusfc-sportingclubedeportugal-2025-11-04,2025-26,202526,2025-11-04,Juventus FC,Sporting Clube de Portugal,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202526-paeolympiakossfp-psv-2025-11-04,2025-26,202526,2025-11-04,PAE Olympiakos SFP,PSV,1,1,D,1.0,0.0,H,,League phase / group stage,False
+ucl202526-parissaintgermainfc-fcbayernmnchen-2025-11-04,2025-26,202526,2025-11-04,Paris Saint-Germain FC,FC Bayern München,1,2,A,0.0,2.0,A,,League phase / group stage,False
+ucl202526-liverpoolfc-realmadridcf-2025-11-04,2025-26,202526,2025-11-04,Liverpool FC,Real Madrid CF,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-skslaviapraha-arsenalfc-2025-11-04,2025-26,202526,2025-11-04,SK Slavia Praha,Arsenal FC,0,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202526-sscnapoli-eintrachtfrankfurt-2025-11-04,2025-26,202526,2025-11-04,SSC Napoli,Eintracht Frankfurt,0,0,D,,,,,League phase / group stage,False
+ucl202526-clubatlticodemadrid-royaleunionsaintgilloise-2025-11-04,2025-26,202526,2025-11-04,Club Atlético de Madrid,Royale Union Saint-Gilloise,3,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-newcastleunitedfc-athleticclub-2025-11-05,2025-26,202526,2025-11-05,Newcastle United FC,Athletic Club,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-afcajax-galatasaraysk-2025-11-05,2025-26,202526,2025-11-05,AFC Ajax,Galatasaray SK,0,3,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-clubbruggekv-fcbarcelona-2025-11-05,2025-26,202526,2025-11-05,Club Brugge KV,FC Barcelona,3,3,D,2.0,1.0,H,,League phase / group stage,False
+ucl202526-sportlisboaebenfica-bayer04leverkusen-2025-11-05,2025-26,202526,2025-11-05,Sport Lisboa e Benfica,Bayer 04 Leverkusen,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-manchestercityfc-borussiadortmund-2025-11-05,2025-26,202526,2025-11-05,Manchester City FC,Borussia Dortmund,4,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-fcinternazionalemilano-fkkairat-2025-11-05,2025-26,202526,2025-11-05,FC Internazionale Milano,FK Kairat,2,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-paphosfc-villarrealcf-2025-11-05,2025-26,202526,2025-11-05,Paphos FC,Villarreal CF,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-olympiquedemarseille-atalantabc-2025-11-05,2025-26,202526,2025-11-05,Olympique de Marseille,Atalanta BC,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-qarabaadamfk-chelseafc-2025-11-05,2025-26,202526,2025-11-05,Qarabağ Ağdam FK,Chelsea FC,2,2,D,2.0,1.0,H,,League phase / group stage,False
+ucl202122-fcbarcelona-slbenfica-2025-11-23,2021-22,202122,2025-11-23,FC Barcelona,SL Benfica,0,0,D,,,,,League phase / group stage,False
+ucl202122-dinamokiev-bayernmnchen-2025-11-23,2021-22,202122,2025-11-23,Dinamo Kiev,Bayern München,1,2,A,0.0,2.0,A,,League phase / group stage,False
+ucl202526-chelseafc-fcbarcelona-2025-11-25,2025-26,202526,2025-11-25,Chelsea FC,FC Barcelona,3,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-skslaviapraha-athleticclub-2025-11-25,2025-26,202526,2025-11-25,SK Slavia Praha,Athletic Club,0,0,D,,,,,League phase / group stage,False
+ucl202526-afcajax-sportlisboaebenfica-2025-11-25,2025-26,202526,2025-11-25,AFC Ajax,Sport Lisboa e Benfica,0,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202526-sscnapoli-qarabaadamfk-2025-11-25,2025-26,202526,2025-11-25,SSC Napoli,Qarabağ Ağdam FK,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-galatasaraysk-royaleunionsaintgilloise-2025-11-25,2025-26,202526,2025-11-25,Galatasaray SK,Royale Union Saint-Gilloise,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-manchestercityfc-bayer04leverkusen-2025-11-25,2025-26,202526,2025-11-25,Manchester City FC,Bayer 04 Leverkusen,0,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202526-borussiadortmund-villarrealcf-2025-11-25,2025-26,202526,2025-11-25,Borussia Dortmund,Villarreal CF,4,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-olympiquedemarseille-newcastleunitedfc-2025-11-25,2025-26,202526,2025-11-25,Olympique de Marseille,Newcastle United FC,2,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202526-fkbodglimt-juventusfc-2025-11-25,2025-26,202526,2025-11-25,FK Bodø/Glimt,Juventus FC,2,3,A,1.0,0.0,H,,League phase / group stage,False
+ucl202526-fckbenhavn-fkkairat-2025-11-26,2025-26,202526,2025-11-26,FC København,FK Kairat,3,2,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-parissaintgermainfc-tottenhamhotspurfc-2025-11-26,2025-26,202526,2025-11-26,Paris Saint-Germain FC,Tottenham Hotspur FC,5,3,H,1.0,1.0,D,,League phase / group stage,False
+ucl202526-eintrachtfrankfurt-atalantabc-2025-11-26,2025-26,202526,2025-11-26,Eintracht Frankfurt,Atalanta BC,0,3,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-clubatlticodemadrid-fcinternazionalemilano-2025-11-26,2025-26,202526,2025-11-26,Club Atlético de Madrid,FC Internazionale Milano,2,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-sportingclubedeportugal-clubbruggekv-2025-11-26,2025-26,202526,2025-11-26,Sporting Clube de Portugal,Club Brugge KV,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-paeolympiakossfp-realmadridcf-2025-11-26,2025-26,202526,2025-11-26,PAE Olympiakos SFP,Real Madrid CF,3,4,A,1.0,3.0,A,,League phase / group stage,False
+ucl202526-arsenalfc-fcbayernmnchen-2025-11-26,2025-26,202526,2025-11-26,Arsenal FC,FC Bayern München,3,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202526-paphosfc-asmonacofc-2025-11-26,2025-26,202526,2025-11-26,Paphos FC,AS Monaco FC,2,2,D,1.0,2.0,A,,League phase / group stage,False
+ucl202526-liverpoolfc-psv-2025-11-26,2025-26,202526,2025-11-26,Liverpool FC,PSV,1,4,A,1.0,1.0,D,,League phase / group stage,False
+ucl202122-bayernmnchen-fcbarcelona-2025-12-08,2021-22,202122,2025-12-08,Bayern München,FC Barcelona,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202122-slbenfica-dinamokiev-2025-12-08,2021-22,202122,2025-12-08,SL Benfica,Dinamo Kiev,2,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-fkkairat-paeolympiakossfp-2025-12-09,2025-26,202526,2025-12-09,FK Kairat,PAE Olympiakos SFP,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-psv-clubatlticodemadrid-2025-12-09,2025-26,202526,2025-12-09,PSV,Club Atlético de Madrid,2,3,A,1.0,1.0,D,,League phase / group stage,False
+ucl202526-fcinternazionalemilano-liverpoolfc-2025-12-09,2025-26,202526,2025-12-09,FC Internazionale Milano,Liverpool FC,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-atalantabc-chelseafc-2025-12-09,2025-26,202526,2025-12-09,Atalanta BC,Chelsea FC,2,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202526-asmonacofc-galatasaraysk-2025-12-09,2025-26,202526,2025-12-09,AS Monaco FC,Galatasaray SK,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-tottenhamhotspurfc-skslaviapraha-2025-12-09,2025-26,202526,2025-12-09,Tottenham Hotspur FC,SK Slavia Praha,3,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-royaleunionsaintgilloise-olympiquedemarseille-2025-12-09,2025-26,202526,2025-12-09,Royale Union Saint-Gilloise,Olympique de Marseille,2,3,A,1.0,2.0,A,,League phase / group stage,False
+ucl202526-fcbarcelona-eintrachtfrankfurt-2025-12-09,2025-26,202526,2025-12-09,FC Barcelona,Eintracht Frankfurt,2,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202526-fcbayernmnchen-sportingclubedeportugal-2025-12-09,2025-26,202526,2025-12-09,FC Bayern München,Sporting Clube de Portugal,3,1,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-qarabaadamfk-afcajax-2025-12-10,2025-26,202526,2025-12-10,Qarabağ Ağdam FK,AFC Ajax,2,4,A,1.0,1.0,D,,League phase / group stage,False
+ucl202526-borussiadortmund-fkbodglimt-2025-12-10,2025-26,202526,2025-12-10,Borussia Dortmund,FK Bodø/Glimt,2,2,D,1.0,1.0,D,,League phase / group stage,False
+ucl202526-villarrealcf-fckbenhavn-2025-12-10,2025-26,202526,2025-12-10,Villarreal CF,FC København,2,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202526-athleticclub-parissaintgermainfc-2025-12-10,2025-26,202526,2025-12-10,Athletic Club,Paris Saint-Germain FC,0,0,D,,,,,League phase / group stage,False
+ucl202526-sportlisboaebenfica-sscnapoli-2025-12-10,2025-26,202526,2025-12-10,Sport Lisboa e Benfica,SSC Napoli,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202526-clubbruggekv-arsenalfc-2025-12-10,2025-26,202526,2025-12-10,Club Brugge KV,Arsenal FC,0,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202526-bayer04leverkusen-newcastleunitedfc-2025-12-10,2025-26,202526,2025-12-10,Bayer 04 Leverkusen,Newcastle United FC,2,2,D,1.0,0.0,H,,League phase / group stage,False
+ucl202526-realmadridcf-manchestercityfc-2025-12-10,2025-26,202526,2025-12-10,Real Madrid CF,Manchester City FC,1,2,A,1.0,2.0,A,,League phase / group stage,False
+ucl202526-juventusfc-paphosfc-2025-12-10,2025-26,202526,2025-12-10,Juventus FC,Paphos FC,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-fkkairat-clubbruggekv-2026-01-20,2025-26,202526,2026-01-20,FK Kairat,Club Brugge KV,1,4,A,0.0,2.0,A,,League phase / group stage,False
+ucl202526-fkbodglimt-manchestercityfc-2026-01-20,2025-26,202526,2026-01-20,FK Bodø/Glimt,Manchester City FC,3,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-tottenhamhotspurfc-borussiadortmund-2026-01-20,2025-26,202526,2026-01-20,Tottenham Hotspur FC,Borussia Dortmund,2,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-sportingclubedeportugal-parissaintgermainfc-2026-01-20,2025-26,202526,2026-01-20,Sporting Clube de Portugal,Paris Saint-Germain FC,2,1,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-paeolympiakossfp-bayer04leverkusen-2026-01-20,2025-26,202526,2026-01-20,PAE Olympiakos SFP,Bayer 04 Leverkusen,2,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-villarrealcf-afcajax-2026-01-20,2025-26,202526,2026-01-20,Villarreal CF,AFC Ajax,1,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-fckbenhavn-sscnapoli-2026-01-20,2025-26,202526,2026-01-20,FC København,SSC Napoli,1,1,D,0.0,1.0,A,,League phase / group stage,False
+ucl202526-realmadridcf-asmonacofc-2026-01-20,2025-26,202526,2026-01-20,Real Madrid CF,AS Monaco FC,6,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-fcinternazionalemilano-arsenalfc-2026-01-20,2025-26,202526,2026-01-20,FC Internazionale Milano,Arsenal FC,1,3,A,1.0,2.0,A,,League phase / group stage,False
+ucl202526-chelseafc-paphosfc-2026-01-21,2025-26,202526,2026-01-21,Chelsea FC,Paphos FC,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-fcbayernmnchen-royaleunionsaintgilloise-2026-01-21,2025-26,202526,2026-01-21,FC Bayern München,Royale Union Saint-Gilloise,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-newcastleunitedfc-psv-2026-01-21,2025-26,202526,2026-01-21,Newcastle United FC,PSV,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-juventusfc-sportlisboaebenfica-2026-01-21,2025-26,202526,2026-01-21,Juventus FC,Sport Lisboa e Benfica,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-skslaviapraha-fcbarcelona-2026-01-21,2025-26,202526,2026-01-21,SK Slavia Praha,FC Barcelona,2,4,A,2.0,2.0,D,,League phase / group stage,False
+ucl202526-olympiquedemarseille-liverpoolfc-2026-01-21,2025-26,202526,2026-01-21,Olympique de Marseille,Liverpool FC,0,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202526-galatasaraysk-clubatlticodemadrid-2026-01-21,2025-26,202526,2026-01-21,Galatasaray SK,Club Atlético de Madrid,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202526-qarabaadamfk-eintrachtfrankfurt-2026-01-21,2025-26,202526,2026-01-21,Qarabağ Ağdam FK,Eintracht Frankfurt,3,2,H,1.0,1.0,D,,League phase / group stage,False
+ucl202526-atalantabc-athleticclub-2026-01-21,2025-26,202526,2026-01-21,Atalanta BC,Athletic Club,2,3,A,1.0,0.0,H,,League phase / group stage,False
+ucl202526-athleticclub-sportingclubedeportugal-2026-01-28,2025-26,202526,2026-01-28,Athletic Club,Sporting Clube de Portugal,2,3,A,2.0,1.0,H,,League phase / group stage,False
+ucl202526-psv-fcbayernmnchen-2026-01-28,2025-26,202526,2026-01-28,PSV,FC Bayern München,1,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-sportlisboaebenfica-realmadridcf-2026-01-28,2025-26,202526,2026-01-28,Sport Lisboa e Benfica,Real Madrid CF,4,2,H,2.0,1.0,H,,League phase / group stage,False
+ucl202526-sscnapoli-chelseafc-2026-01-28,2025-26,202526,2026-01-28,SSC Napoli,Chelsea FC,2,3,A,2.0,1.0,H,,League phase / group stage,False
+ucl202526-parissaintgermainfc-newcastleunitedfc-2026-01-28,2025-26,202526,2026-01-28,Paris Saint-Germain FC,Newcastle United FC,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202526-afcajax-paeolympiakossfp-2026-01-28,2025-26,202526,2026-01-28,AFC Ajax,PAE Olympiakos SFP,1,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-clubatlticodemadrid-fkbodglimt-2026-01-28,2025-26,202526,2026-01-28,Club Atlético de Madrid,FK Bodø/Glimt,1,2,A,1.0,1.0,D,,League phase / group stage,False
+ucl202526-borussiadortmund-fcinternazionalemilano-2026-01-28,2025-26,202526,2026-01-28,Borussia Dortmund,FC Internazionale Milano,0,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-eintrachtfrankfurt-tottenhamhotspurfc-2026-01-28,2025-26,202526,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur FC,0,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202526-clubbruggekv-olympiquedemarseille-2026-01-28,2025-26,202526,2026-01-28,Club Brugge KV,Olympique de Marseille,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-royaleunionsaintgilloise-atalantabc-2026-01-28,2025-26,202526,2026-01-28,Royale Union Saint-Gilloise,Atalanta BC,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202526-arsenalfc-fkkairat-2026-01-28,2025-26,202526,2026-01-28,Arsenal FC,FK Kairat,3,2,H,3.0,1.0,H,,League phase / group stage,False
+ucl202526-bayer04leverkusen-villarrealcf-2026-01-28,2025-26,202526,2026-01-28,Bayer 04 Leverkusen,Villarreal CF,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-manchestercityfc-galatasaraysk-2026-01-28,2025-26,202526,2026-01-28,Manchester City FC,Galatasaray SK,2,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-fcbarcelona-fckbenhavn-2026-01-28,2025-26,202526,2026-01-28,FC Barcelona,FC København,4,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202526-liverpoolfc-qarabaadamfk-2026-01-28,2025-26,202526,2026-01-28,Liverpool FC,Qarabağ Ağdam FK,6,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202526-asmonacofc-juventusfc-2026-01-28,2025-26,202526,2026-01-28,AS Monaco FC,Juventus FC,0,0,D,,,,,League phase / group stage,False
+ucl202526-paphosfc-skslaviapraha-2026-01-28,2025-26,202526,2026-01-28,Paphos FC,SK Slavia Praha,4,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202526-galatasaraysk-juventusfc-2026-02-17,2025-26,202526,2026-02-17,Galatasaray SK,Juventus FC,5,2,H,1.0,2.0,A,,Play-off round,False
+ucl202526-sportlisboaebenfica-realmadridcf-2026-02-17,2025-26,202526,2026-02-17,Sport Lisboa e Benfica,Real Madrid CF,0,1,A,0.0,0.0,D,,Play-off round,False
+ucl202526-asmonacofc-parissaintgermainfc-2026-02-17,2025-26,202526,2026-02-17,AS Monaco FC,Paris Saint-Germain FC,2,3,A,2.0,2.0,D,,Play-off round,False
+ucl202526-borussiadortmund-atalantabc-2026-02-17,2025-26,202526,2026-02-17,Borussia Dortmund,Atalanta BC,2,0,H,2.0,0.0,H,,Play-off round,False
+ucl202526-fkbodglimt-fcinternazionalemilano-2026-02-18,2025-26,202526,2026-02-18,FK Bodø/Glimt,FC Internazionale Milano,3,1,H,1.0,1.0,D,,Play-off round,False
+ucl202526-clubbruggekv-clubatlticodemadrid-2026-02-18,2025-26,202526,2026-02-18,Club Brugge KV,Club Atlético de Madrid,3,3,D,0.0,2.0,A,,Play-off round,False
+ucl202526-paeolympiakossfp-bayer04leverkusen-2026-02-18,2025-26,202526,2026-02-18,PAE Olympiakos SFP,Bayer 04 Leverkusen,0,2,A,0.0,0.0,D,,Play-off round,False
+ucl202526-qarabaadamfk-newcastleunitedfc-2026-02-18,2025-26,202526,2026-02-18,Qarabağ Ağdam FK,Newcastle United FC,1,6,A,0.0,5.0,A,,Play-off round,False
+ucl202526-clubatlticodemadrid-clubbruggekv-2026-02-24,2025-26,202526,2026-02-24,Club Atlético de Madrid,Club Brugge KV,4,1,H,1.0,1.0,D,,Play-off round,False
+ucl202526-newcastleunitedfc-qarabaadamfk-2026-02-24,2025-26,202526,2026-02-24,Newcastle United FC,Qarabağ Ağdam FK,3,2,H,2.0,0.0,H,,Play-off round,False
+ucl202526-bayer04leverkusen-paeolympiakossfp-2026-02-24,2025-26,202526,2026-02-24,Bayer 04 Leverkusen,PAE Olympiakos SFP,0,0,D,,,,,Play-off round,False
+ucl202526-fcinternazionalemilano-fkbodglimt-2026-02-24,2025-26,202526,2026-02-24,FC Internazionale Milano,FK Bodø/Glimt,1,2,A,0.0,0.0,D,,Play-off round,False
+ucl202526-realmadridcf-sportlisboaebenfica-2026-02-25,2025-26,202526,2026-02-25,Real Madrid CF,Sport Lisboa e Benfica,2,1,H,1.0,1.0,D,,Play-off round,False
+ucl202526-juventusfc-galatasaraysk-2026-02-25,2025-26,202526,2026-02-25,Juventus FC,Galatasaray SK,3,2,H,3.0,0.0,H,,Play-off round,False
+ucl202526-parissaintgermainfc-asmonacofc-2026-02-25,2025-26,202526,2026-02-25,Paris Saint-Germain FC,AS Monaco FC,2,2,D,0.0,1.0,A,,Play-off round,False
+ucl202526-atalantabc-borussiadortmund-2026-02-25,2025-26,202526,2026-02-25,Atalanta BC,Borussia Dortmund,4,1,H,2.0,0.0,H,,Play-off round,False
+ucl202526-galatasaraysk-liverpoolfc-2026-03-10,2025-26,202526,2026-03-10,Galatasaray SK,Liverpool FC,1,0,H,1.0,0.0,H,,Round of 16,False
+ucl202526-atalantabc-fcbayernmnchen-2026-03-10,2025-26,202526,2026-03-10,Atalanta BC,FC Bayern München,1,6,A,0.0,3.0,A,,Round of 16,False
+ucl202526-newcastleunitedfc-fcbarcelona-2026-03-10,2025-26,202526,2026-03-10,Newcastle United FC,FC Barcelona,1,1,D,0.0,0.0,D,,Round of 16,False
+ucl202526-clubatlticodemadrid-tottenhamhotspurfc-2026-03-10,2025-26,202526,2026-03-10,Club Atlético de Madrid,Tottenham Hotspur FC,5,2,H,4.0,1.0,H,,Round of 16,False
+ucl202526-bayer04leverkusen-arsenalfc-2026-03-11,2025-26,202526,2026-03-11,Bayer 04 Leverkusen,Arsenal FC,1,1,D,0.0,0.0,D,,Round of 16,False
+ucl202526-parissaintgermainfc-chelseafc-2026-03-11,2025-26,202526,2026-03-11,Paris Saint-Germain FC,Chelsea FC,5,2,H,2.0,1.0,H,,Round of 16,False
+ucl202526-fkbodglimt-sportingclubedeportugal-2026-03-11,2025-26,202526,2026-03-11,FK Bodø/Glimt,Sporting Clube de Portugal,3,0,H,2.0,0.0,H,,Round of 16,False
+ucl202526-realmadridcf-manchestercityfc-2026-03-11,2025-26,202526,2026-03-11,Real Madrid CF,Manchester City FC,3,0,H,3.0,0.0,H,,Round of 16,False
+ucl202526-manchestercityfc-realmadridcf-2026-03-17,2025-26,202526,2026-03-17,Manchester City FC,Real Madrid CF,1,2,A,1.0,1.0,D,,Round of 16,False
+ucl202526-sportingclubedeportugal-fkbodglimt-2026-03-17,2025-26,202526,2026-03-17,Sporting Clube de Portugal,FK Bodø/Glimt,5,0,H,3.0,0.0,H,,Round of 16,False
+ucl202526-chelseafc-parissaintgermainfc-2026-03-17,2025-26,202526,2026-03-17,Chelsea FC,Paris Saint-Germain FC,0,3,A,0.0,2.0,A,,Round of 16,False
+ucl202526-arsenalfc-bayer04leverkusen-2026-03-17,2025-26,202526,2026-03-17,Arsenal FC,Bayer 04 Leverkusen,2,0,H,1.0,0.0,H,,Round of 16,False
+ucl202526-tottenhamhotspurfc-clubatlticodemadrid-2026-03-18,2025-26,202526,2026-03-18,Tottenham Hotspur FC,Club Atlético de Madrid,3,2,H,1.0,0.0,H,,Round of 16,False
+ucl202526-fcbarcelona-newcastleunitedfc-2026-03-18,2025-26,202526,2026-03-18,FC Barcelona,Newcastle United FC,7,2,H,3.0,2.0,H,,Round of 16,False
+ucl202526-fcbayernmnchen-atalantabc-2026-03-18,2025-26,202526,2026-03-18,FC Bayern München,Atalanta BC,4,1,H,1.0,0.0,H,,Round of 16,False
+ucl202526-liverpoolfc-galatasaraysk-2026-03-18,2025-26,202526,2026-03-18,Liverpool FC,Galatasaray SK,4,0,H,1.0,0.0,H,,Round of 16,False
+ucl202526-sportingclubedeportugal-arsenalfc-2026-04-07,2025-26,202526,2026-04-07,Sporting Clube de Portugal,Arsenal FC,0,1,A,0.0,0.0,D,,Quarter-final,False
+ucl202526-realmadridcf-fcbayernmnchen-2026-04-07,2025-26,202526,2026-04-07,Real Madrid CF,FC Bayern München,1,2,A,0.0,1.0,A,,Quarter-final,False
+ucl202526-fcbarcelona-clubatlticodemadrid-2026-04-08,2025-26,202526,2026-04-08,FC Barcelona,Club Atlético de Madrid,0,2,A,0.0,1.0,A,,Quarter-final,False
+ucl202526-parissaintgermainfc-liverpoolfc-2026-04-08,2025-26,202526,2026-04-08,Paris Saint-Germain FC,Liverpool FC,2,0,H,1.0,0.0,H,,Quarter-final,False
+ucl202526-liverpoolfc-parissaintgermainfc-2026-04-14,2025-26,202526,2026-04-14,Liverpool FC,Paris Saint-Germain FC,0,2,A,0.0,0.0,D,,Quarter-final,False
+ucl202526-clubatlticodemadrid-fcbarcelona-2026-04-14,2025-26,202526,2026-04-14,Club Atlético de Madrid,FC Barcelona,1,2,A,1.0,2.0,A,,Quarter-final,False
+ucl202526-fcbayernmnchen-realmadridcf-2026-04-15,2025-26,202526,2026-04-15,FC Bayern München,Real Madrid CF,4,3,H,2.0,3.0,A,,Quarter-final,False
+ucl202526-arsenalfc-sportingclubedeportugal-2026-04-15,2025-26,202526,2026-04-15,Arsenal FC,Sporting Clube de Portugal,0,0,D,,,,,Quarter-final,False
+ucl202526-parissaintgermainfc-fcbayernmnchen-2026-04-28,2025-26,202526,2026-04-28,Paris Saint-Germain FC,FC Bayern München,5,4,H,3.0,2.0,H,,Semi-final,False
+ucl202526-clubatlticodemadrid-arsenalfc-2026-04-29,2025-26,202526,2026-04-29,Club Atlético de Madrid,Arsenal FC,1,1,D,0.0,1.0,A,,Semi-final,False
+ucl202526-arsenalfc-clubatlticodemadrid-2026-05-05,2025-26,202526,2026-05-05,Arsenal FC,Club Atlético de Madrid,1,0,H,1.0,0.0,H,,Semi-final,False
+ucl202526-fcbayernmnchen-parissaintgermainfc-2026-05-06,2025-26,202526,2026-05-06,FC Bayern München,Paris Saint-Germain FC,1,1,D,0.0,1.0,A,,Semi-final,False
+ucl202526-parissaintgermainfc-arsenalfc-2026-05-30,2025-26,202526,2026-05-30,Paris Saint-Germain FC,Arsenal FC,1,1,D,1.0,1.0,D,,Final,True
+ucl202223-rbsalzburg-acmilan-2026-09-06,2022-23,202223,2026-09-06,RB Salzburg,AC Milan,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202223-dinamozagreb-chelseafc-2026-09-06,2022-23,202223,2026-09-06,Dinamo Zagreb,Chelsea FC,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-bscyoungboys-manchesterunited-2026-09-14,2021-22,202122,2026-09-14,BSC Young Boys,Manchester United,2,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202122-villarrealcf-atalanta-2026-09-14,2021-22,202122,2026-09-14,Villarreal CF,Atalanta,2,2,D,1.0,1.0,D,,League phase / group stage,False
+ucl202223-chelseafc-rbsalzburg-2026-09-14,2022-23,202223,2026-09-14,Chelsea FC,RB Salzburg,1,1,D,0.0,0.0,D,,League phase / group stage,False
+ucl202223-acmilan-dinamozagreb-2026-09-14,2022-23,202223,2026-09-14,AC Milan,Dinamo Zagreb,3,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-atalanta-bscyoungboys-2026-09-29,2021-22,202122,2026-09-29,Atalanta,BSC Young Boys,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-manchesterunited-villarrealcf-2026-09-29,2021-22,202122,2026-09-29,Manchester United,Villarreal CF,2,1,H,0.0,0.0,D,,League phase / group stage,False
+ucl202223-rbsalzburg-dinamozagreb-2026-10-05,2022-23,202223,2026-10-05,RB Salzburg,Dinamo Zagreb,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202223-chelseafc-acmilan-2026-10-05,2022-23,202223,2026-10-05,Chelsea FC,AC Milan,3,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202223-dinamozagreb-rbsalzburg-2026-10-11,2022-23,202223,2026-10-11,Dinamo Zagreb,RB Salzburg,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202223-acmilan-chelseafc-2026-10-11,2022-23,202223,2026-10-11,AC Milan,Chelsea FC,0,2,A,0.0,2.0,A,,League phase / group stage,False
+ucl202122-manchesterunited-atalanta-2026-10-20,2021-22,202122,2026-10-20,Manchester United,Atalanta,3,2,H,0.0,2.0,A,,League phase / group stage,False
+ucl202122-bscyoungboys-villarrealcf-2026-10-20,2021-22,202122,2026-10-20,BSC Young Boys,Villarreal CF,1,4,A,0.0,2.0,A,,League phase / group stage,False
+ucl202223-dinamozagreb-acmilan-2026-10-25,2022-23,202223,2026-10-25,Dinamo Zagreb,AC Milan,0,4,A,0.0,1.0,A,,League phase / group stage,False
+ucl202223-rbsalzburg-chelseafc-2026-10-25,2022-23,202223,2026-10-25,RB Salzburg,Chelsea FC,1,2,A,0.0,1.0,A,,League phase / group stage,False
+ucl202223-acmilan-rbsalzburg-2026-11-02,2022-23,202223,2026-11-02,AC Milan,RB Salzburg,4,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202223-chelseafc-dinamozagreb-2026-11-02,2022-23,202223,2026-11-02,Chelsea FC,Dinamo Zagreb,2,1,H,2.0,1.0,H,,League phase / group stage,False
+ucl202122-atalanta-manchesterunited-2026-11-02,2021-22,202122,2026-11-02,Atalanta,Manchester United,2,2,D,1.0,1.0,D,,League phase / group stage,False
+ucl202122-villarrealcf-bscyoungboys-2026-11-02,2021-22,202122,2026-11-02,Villarreal CF,BSC Young Boys,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-bscyoungboys-atalanta-2026-11-23,2021-22,202122,2026-11-23,BSC Young Boys,Atalanta,3,3,D,1.0,1.0,D,,League phase / group stage,False
+ucl202122-villarrealcf-manchesterunited-2026-11-23,2021-22,202122,2026-11-23,Villarreal CF,Manchester United,0,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202122-manchesterunited-bscyoungboys-2026-12-08,2021-22,202122,2026-12-08,Manchester United,BSC Young Boys,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202122-atalanta-villarrealcf-2026-12-09,2021-22,202122,2026-12-09,Atalanta,Villarreal CF,2,3,A,0.0,2.0,A,,League phase / group stage,False
+ucl202223-rbleipzig-shakhtardonetsk-2027-09-06,2022-23,202223,2027-09-06,RB Leipzig,Shakhtar Donetsk,1,4,A,0.0,1.0,A,,League phase / group stage,False
+ucl202223-celticfc-realmadrid-2027-09-06,2022-23,202223,2027-09-06,Celtic FC,Real Madrid,0,3,A,0.0,0.0,D,,League phase / group stage,False
+ucl202122-lilleosc-vflwolfsburg-2027-09-14,2021-22,202122,2027-09-14,Lille OSC,VfL Wolfsburg,0,0,D,,,,,League phase / group stage,False
+ucl202223-shakhtardonetsk-celticfc-2027-09-14,2022-23,202223,2027-09-14,Shakhtar Donetsk,Celtic FC,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202223-realmadrid-rbleipzig-2027-09-14,2022-23,202223,2027-09-14,Real Madrid,RB Leipzig,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-sevillafc-rbsalzburg-2027-09-14,2021-22,202122,2027-09-14,Sevilla FC,RB Salzburg,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202122-rbsalzburg-lilleosc-2027-09-29,2021-22,202122,2027-09-29,RB Salzburg,Lille OSC,2,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-vflwolfsburg-sevillafc-2027-09-29,2021-22,202122,2027-09-29,VfL Wolfsburg,Sevilla FC,1,1,D,0.0,0.0,D,,League phase / group stage,False
+ucl202223-realmadrid-shakhtardonetsk-2027-10-05,2022-23,202223,2027-10-05,Real Madrid,Shakhtar Donetsk,2,1,H,2.0,1.0,H,,League phase / group stage,False
+ucl202223-rbleipzig-celticfc-2027-10-05,2022-23,202223,2027-10-05,RB Leipzig,Celtic FC,3,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202223-shakhtardonetsk-realmadrid-2027-10-11,2022-23,202223,2027-10-11,Shakhtar Donetsk,Real Madrid,1,1,D,0.0,0.0,D,,League phase / group stage,False
+ucl202223-celticfc-rbleipzig-2027-10-11,2022-23,202223,2027-10-11,Celtic FC,RB Leipzig,0,2,A,0.0,0.0,D,,League phase / group stage,False
+ucl202122-rbsalzburg-vflwolfsburg-2027-10-20,2021-22,202122,2027-10-20,RB Salzburg,VfL Wolfsburg,3,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202122-lilleosc-sevillafc-2027-10-20,2021-22,202122,2027-10-20,Lille OSC,Sevilla FC,0,0,D,,,,,League phase / group stage,False
+ucl202223-celticfc-shakhtardonetsk-2027-10-25,2022-23,202223,2027-10-25,Celtic FC,Shakhtar Donetsk,1,1,D,1.0,0.0,H,,League phase / group stage,False
+ucl202223-rbleipzig-realmadrid-2027-10-25,2022-23,202223,2027-10-25,RB Leipzig,Real Madrid,3,2,H,2.0,1.0,H,,League phase / group stage,False
+ucl202223-shakhtardonetsk-rbleipzig-2027-11-02,2022-23,202223,2027-11-02,Shakhtar Donetsk,RB Leipzig,0,4,A,0.0,1.0,A,,League phase / group stage,False
+ucl202122-sevillafc-lilleosc-2027-11-02,2021-22,202122,2027-11-02,Sevilla FC,Lille OSC,1,2,A,1.0,1.0,D,,League phase / group stage,False
+ucl202223-realmadrid-celticfc-2027-11-02,2022-23,202223,2027-11-02,Real Madrid,Celtic FC,5,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202122-vflwolfsburg-rbsalzburg-2027-11-02,2021-22,202122,2027-11-02,VfL Wolfsburg,RB Salzburg,2,1,H,1.0,1.0,D,,League phase / group stage,False
+ucl202122-lilleosc-rbsalzburg-2027-11-23,2021-22,202122,2027-11-23,Lille OSC,RB Salzburg,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-sevillafc-vflwolfsburg-2027-11-23,2021-22,202122,2027-11-23,Sevilla FC,VfL Wolfsburg,2,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-rbsalzburg-sevillafc-2027-12-08,2021-22,202122,2027-12-08,RB Salzburg,Sevilla FC,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-vflwolfsburg-lilleosc-2027-12-08,2021-22,202122,2027-12-08,VfL Wolfsburg,Lille OSC,1,3,A,0.0,1.0,A,,League phase / group stage,False
+ucl202223-sevillafc-manchestercity-2028-09-06,2022-23,202223,2028-09-06,Sevilla FC,Manchester City,0,4,A,0.0,1.0,A,,League phase / group stage,False
+ucl202223-borussiadortmund-fckbenhavn-2028-09-06,2022-23,202223,2028-09-06,Borussia Dortmund,FC København,3,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202122-malmff-juventus-2028-09-14,2021-22,202122,2028-09-14,Malmö FF,Juventus,0,3,A,0.0,3.0,A,,League phase / group stage,False
+ucl202223-fckbenhavn-sevillafc-2028-09-14,2022-23,202223,2028-09-14,FC København,Sevilla FC,0,0,D,,,,,League phase / group stage,False
+ucl202223-manchestercity-borussiadortmund-2028-09-14,2022-23,202223,2028-09-14,Manchester City,Borussia Dortmund,2,1,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-chelseafc-zenitstpetersburg-2028-09-14,2021-22,202122,2028-09-14,Chelsea FC,Zenit St. Petersburg,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202122-zenitstpetersburg-malmff-2028-09-29,2021-22,202122,2028-09-29,Zenit St. Petersburg,Malmö FF,4,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-juventus-chelseafc-2028-09-29,2021-22,202122,2028-09-29,Juventus,Chelsea FC,1,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202223-sevillafc-borussiadortmund-2028-10-05,2022-23,202223,2028-10-05,Sevilla FC,Borussia Dortmund,1,4,A,0.0,3.0,A,,League phase / group stage,False
+ucl202223-manchestercity-fckbenhavn-2028-10-05,2022-23,202223,2028-10-05,Manchester City,FC København,5,0,H,3.0,0.0,H,,League phase / group stage,False
+ucl202223-fckbenhavn-manchestercity-2028-10-11,2022-23,202223,2028-10-11,FC København,Manchester City,0,0,D,,,,,League phase / group stage,False
+ucl202223-borussiadortmund-sevillafc-2028-10-11,2022-23,202223,2028-10-11,Borussia Dortmund,Sevilla FC,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202122-chelseafc-malmff-2028-10-20,2021-22,202122,2028-10-20,Chelsea FC,Malmö FF,4,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202122-zenitstpetersburg-juventus-2028-10-20,2021-22,202122,2028-10-20,Zenit St. Petersburg,Juventus,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202223-sevillafc-fckbenhavn-2028-10-25,2022-23,202223,2028-10-25,Sevilla FC,FC København,3,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202223-borussiadortmund-manchestercity-2028-10-25,2022-23,202223,2028-10-25,Borussia Dortmund,Manchester City,0,0,D,,,,,League phase / group stage,False
+ucl202122-malmff-chelseafc-2028-11-02,2021-22,202122,2028-11-02,Malmö FF,Chelsea FC,0,1,A,0.0,0.0,D,,League phase / group stage,False
+ucl202122-juventus-zenitstpetersburg-2028-11-02,2021-22,202122,2028-11-02,Juventus,Zenit St. Petersburg,4,2,H,1.0,1.0,D,,League phase / group stage,False
+ucl202223-manchestercity-sevillafc-2028-11-02,2022-23,202223,2028-11-02,Manchester City,Sevilla FC,3,1,H,0.0,1.0,A,,League phase / group stage,False
+ucl202223-fckbenhavn-borussiadortmund-2028-11-02,2022-23,202223,2028-11-02,FC København,Borussia Dortmund,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202122-chelseafc-juventus-2028-11-23,2021-22,202122,2028-11-23,Chelsea FC,Juventus,4,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-malmff-zenitstpetersburg-2028-11-23,2021-22,202122,2028-11-23,Malmö FF,Zenit St. Petersburg,1,1,D,1.0,0.0,H,,League phase / group stage,False
+ucl202122-juventus-malmff-2028-12-08,2021-22,202122,2028-12-08,Juventus,Malmö FF,1,0,H,1.0,0.0,H,,League phase / group stage,False
+ucl202122-zenitstpetersburg-chelseafc-2028-12-08,2021-22,202122,2028-12-08,Zenit St. Petersburg,Chelsea FC,3,3,D,2.0,1.0,H,,League phase / group stage,False
+ucl202223-parissaintgermain-juventus-2029-09-06,2022-23,202223,2029-09-06,Paris Saint-Germain,Juventus,2,1,H,2.0,0.0,H,,League phase / group stage,False
+ucl202223-slbenfica-maccabihaifa-2029-09-06,2022-23,202223,2029-09-06,SL Benfica,Maccabi Haifa,2,0,H,0.0,0.0,D,,League phase / group stage,False
+ucl202223-juventus-slbenfica-2029-09-14,2022-23,202223,2029-09-14,Juventus,SL Benfica,1,2,A,1.0,1.0,D,,League phase / group stage,False
+ucl202223-maccabihaifa-parissaintgermain-2029-09-14,2022-23,202223,2029-09-14,Maccabi Haifa,Paris Saint-Germain,1,3,A,1.0,1.0,D,,League phase / group stage,False
+ucl202223-juventus-maccabihaifa-2029-10-05,2022-23,202223,2029-10-05,Juventus,Maccabi Haifa,3,1,H,1.0,0.0,H,,League phase / group stage,False
+ucl202223-slbenfica-parissaintgermain-2029-10-05,2022-23,202223,2029-10-05,SL Benfica,Paris Saint-Germain,1,1,D,1.0,1.0,D,,League phase / group stage,False
+ucl202223-maccabihaifa-juventus-2029-10-11,2022-23,202223,2029-10-11,Maccabi Haifa,Juventus,2,0,H,2.0,0.0,H,,League phase / group stage,False
+ucl202223-parissaintgermain-slbenfica-2029-10-11,2022-23,202223,2029-10-11,Paris Saint-Germain,SL Benfica,1,1,D,1.0,0.0,H,,League phase / group stage,False
+ucl202223-slbenfica-juventus-2029-10-25,2022-23,202223,2029-10-25,SL Benfica,Juventus,4,3,H,2.0,1.0,H,,League phase / group stage,False
+ucl202223-parissaintgermain-maccabihaifa-2029-10-25,2022-23,202223,2029-10-25,Paris Saint-Germain,Maccabi Haifa,7,2,H,4.0,1.0,H,,League phase / group stage,False
+ucl202223-maccabihaifa-slbenfica-2029-11-02,2022-23,202223,2029-11-02,Maccabi Haifa,SL Benfica,1,6,A,1.0,1.0,D,,League phase / group stage,False
+ucl202223-juventus-parissaintgermain-2029-11-02,2022-23,202223,2029-11-02,Juventus,Paris Saint-Germain,1,2,A,1.0,1.0,D,,League phase / group stage,False

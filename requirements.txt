@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.1
+xgboost==2.1.1
+requests==2.32.3
+apscheduler==3.10.4
+python-multipart==0.0.9
+
+# Optional — only needed to run download_xg_data.py (see README_DEPLOY.md).
+# Not required to run the app itself; xG features auto-disable if this
+# hasn't been run and data/epl_xg.csv doesn't exist.
+# understatapi

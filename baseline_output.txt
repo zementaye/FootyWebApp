@@ -1,0 +1,84 @@
+No data/epl_xg.csv found — running with the goals-only feature set. Run `python3 download_xg_data.py` first to include xG features.
+[1/25] processing season 2001-02...
+[2/25] processing season 2002-03...
+[3/25] processing season 2003-04...
+[4/25] processing season 2004-05...
+[5/25] processing season 2005-06...
+[6/25] processing season 2006-07...
+[7/25] processing season 2007-08...
+[8/25] processing season 2008-09...
+[9/25] processing season 2009-10...
+[10/25] processing season 2010-11...
+[11/25] processing season 2011-12...
+[12/25] processing season 2012-13...
+[13/25] processing season 2013-14...
+[14/25] processing season 2014-15...
+[15/25] processing season 2015-16...
+[16/25] processing season 2016-17...
+[17/25] processing season 2017-18...
+[18/25] processing season 2018-19...
+[19/25] processing season 2019-20...
+[20/25] processing season 2020-21...
+[21/25] processing season 2021-22...
+[22/25] processing season 2022-23...
+[23/25] processing season 2023-24...
+[24/25] processing season 2024-25...
+[25/25] processing season 2025-26...
+{
+  "n_bets": 6069,
+  "hit_rate": 0.3081232492997199,
+  "flat_stake_roi": -0.059556763882023404,
+  "flat_stake_roi_ci95": [
+    -0.0957693121378818,
+    -0.0217530736936786
+  ],
+  "flat_stake_total_pnl": -361.45000000000005,
+  "flat_ending_bankroll": 638.5500000000014,
+  "kelly_ending_bankroll": 0.00588582991907287,
+  "starting_bankroll": 1000.0,
+  "avg_edge": 0.07563081043779617,
+  "avg_odds_taken": 3.6898922392486404,
+  "avg_clv_pct": -0.019268044803895098,
+  "pct_bets_beating_close": 0.21370901301697148,
+  "seasons_tested": "2001-02\u20132025-26",
+  "by_selection": [
+    {
+      "bet_selection": "A",
+      "n": 1348,
+      "win_rate": 0.27522255192878337,
+      "avg_odds": 4.0233390207715125,
+      "pnl": -96.14099999999999,
+      "roi": -0.07132121661721068,
+      "roi_ci95": [
+        -0.16680125959592035,
+        0.019488628435165887
+      ]
+    },
+    {
+      "bet_selection": "D",
+      "n": 1135,
+      "win_rate": 0.20969162995594715,
+      "avg_odds": 4.734416740088106,
+      "pnl": -78.55,
+      "roi": -0.06920704845814978,
+      "roi_ci95": [
+        -0.16574494228288597,
+        0.046548708795749724
+      ]
+    },
+    {
+      "bet_selection": "H",
+      "n": 3586,
+      "win_rate": 0.35164528722810934,
+      "avg_odds": 3.2339464584495263,
+      "pnl": -186.75900000000001,
+      "roi": -0.05208003346346905,
+      "roi_ci95": [
+        -0.10387881362661358,
+        -0.004991883287176771
+      ]
+    }
+  ]
+}
+
+Wrote C:\Users\HP\Downloads\football_webapp_updated (1)\data\backtest_summary.json and appended a row to data/backtest_runs_log.jsonl
